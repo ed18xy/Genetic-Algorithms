@@ -1,0 +1,385 @@
+Random seed: 0
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.95
+Mutation rate: 0.15
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Uniform Order Crossover 
+
+Best fitness value: 782.3253805864869
+Average population fitness value: 794.0307867775596
+
+Best fitness value: 768.7468078528644
+Average population fitness value: 791.2406713832507
+
+Best fitness value: 768.7468078528644
+Average population fitness value: 790.521479182017
+
+Best fitness value: 768.7468078528644
+Average population fitness value: 789.4357592833356
+
+Best fitness value: 768.7468078528644
+Average population fitness value: 787.7389702404413
+
+Best fitness value: 764.5558723054969
+Average population fitness value: 787.3172038484394
+
+Best fitness value: 764.5558723054969
+Average population fitness value: 786.3571518880406
+
+Best fitness value: 761.9205752865548
+Average population fitness value: 785.585971650933
+
+Best fitness value: 761.9205752865548
+Average population fitness value: 784.3557126502758
+
+Best fitness value: 761.9205752865548
+Average population fitness value: 783.5995999999033
+
+Best fitness value: 761.9205752865548
+Average population fitness value: 779.6989391504411
+
+Best fitness value: 761.7112944240822
+Average population fitness value: 777.8674254263711
+
+Best fitness value: 761.5572063305655
+Average population fitness value: 776.3196104068501
+
+Best fitness value: 760.942679690222
+Average population fitness value: 773.2307598820229
+
+Best fitness value: 757.2080890346464
+Average population fitness value: 770.7142392741663
+
+Best fitness value: 757.2080890346464
+Average population fitness value: 765.8370359716458
+
+Best fitness value: 757.2080890346464
+Average population fitness value: 766.2531703633681
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 766.0315981104198
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 764.8236853641607
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 765.2017764967396
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 764.7376050309617
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 762.4580613987923
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 761.0561880252025
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 757.0597312445851
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 756.0728142040938
+
+Best fitness value: 753.9129462331535
+Average population fitness value: 755.4214048228685
+
+Best fitness value: 753.4484922626688
+Average population fitness value: 755.0649421535722
+
+Best fitness value: 753.4484922626688
+Average population fitness value: 755.7825801317217
+
+Best fitness value: 753.4484922626688
+Average population fitness value: 755.9044877918433
+
+Best fitness value: 753.4484922626688
+Average population fitness value: 756.050361735464
+
+Best fitness value: 753.4484922626688
+Average population fitness value: 756.7257666760994
+
+Best fitness value: 753.4484922626688
+Solution chromosome: [14, 7, 5, 1, 9, 6, 0, 4, 3, 2, 10, 12, 13, 11, 8]
+The Martisens a
+em to havlc cae
+ulated thdeir e
+scent witaz amh
+ing subtlthty—e
+eir mathecaatim
+l learnin e isg
+vidently inar f
+ excess ors ouf
+—and to hcave a
+rried outirthe 
+ preparat wonsi
+ith a welgh-nil
+ perfect imnanu
+ity. Had inur o
+strumentsmiper 
+tted it, ige mw
+ht have sthen e
+e gatherirog tn
+uble far  iackb
+n the ninntteee
+h centuryn  Me.
+like Schielpara
+li watchee  thd
+red plane i—itt
+s odd, by-bthe-
+ye, that coor f
+untless crintue
+es Mars hees ba
+n the sta w ofr
+ar—but fa tledi
+o interprhet te
+ fluctuatapng i
+pearancesthof  
+e markingey ths
+ mapped sll weo
+. All thame tit
+ the Mart mansi
+ust have  geenb
+etting re Ddy.a
+uring theosopp 
+ition of teighe
+en ninetyr fou 
+a great l wghti
+as seen oe  thn
+illuminatard pe
+t of the , iskd
+first at Lihe t
+ck Observy,tora
+ then by oterrP
+in of Nicnd, ae
+ then by r theo
+observersgl En.
+ish readeeas hr
+rd of it t irsf
+in the isofue s
+ Nature d Ateda
+ugust 2.  i amI
+nclined tin tho
+k that thlas bi
+ze may haeee bv
+n the cas oingt
+f the hugn, gue
+ in the vpist a
+t sunk inheo tt
+ir planetom fr,
+ which thshir e
+ots were d iref
+at us. Pearulic
+ markings y as,
+et unexpld,inea
+ were seear nen
+ the sitethof  
+at outbreurk da
+ing the ntwxt e
+o opposit. onsi
+The stormstbur 
+ upon us yeix s
+ars ago nAsw. o
+ Mars appheoacr
+d opposit Lon,i
+avelle ofa Jav 
+set the w oresi
+f the astmionor
+cal exchapage n
+lpitatingh wit 
+the amazintg in
+elligencea of  
+huge outb oeakr
+f incandet cens
+gas upon plhe t
+anet. It ocad h
+curred tos ardw
+midnight hef to
+ twelfth; tand 
+he spectrpescoo
+, to whic h heh
+ad at oncso ree
+rted, indedcati
+ a mass oam flf
+ing gas, flhiec
+y hydrogeov, mn
+ing with non ea
+rmous vely cito
+towards teais h
+rth. This ojet 
+f fire haco bed
+me invisiable b
+out a qua pterr
+ast twelve . He
+compared o t ti
+a colossaff pul
+ of flamedesud 
+nly and vntolei
+ly squirtutd oe
+ of the pt,anel
+ “as flamgang i
+ses rushet  oud
+of a gun.si A ”
+ngularly opppra
+riate phritse a
+ proved. thet Y
+e next daer thy
+e was not oingh
+f this in pthe 
+apers exca pt e
+little non e it
+the DailyegTel 
+raph, and wthe 
+orld wentigin  
+norance oe  onf
+of the grt vesa
+dangers tevat h
+er threat tnede
+he human . acer
+I might navt ho
+e heard oe  thf
+eruption llt aa
+ had I not  met
+Ogilvy, tele wh
+l-known anotros
+mer, at Oshtert
+aw. He wame ims
+nsely exc atedi
+t the newnd, as
+ in the es cesx
+of his fegsline
+ invited p e um
+to take an tur 
+with him  nhatt
+ight in autscr 
+iny of thd  ree
+planet. Iit spn
+e of all  hhatt
+as happenind se
+ce, I stieml rl
+ember thagi vit
+l very dicttins
+ly: the b aackl
+nd silenterobs 
+vatory, thae sh
+dowed lan ternt
+hrowing ablfee 
+e glow uphen to
+ floor in cthe 
+orner, thea ste
+dy tickin t ofg
+he clockwofrk o
+ the telee,cops
+ the littlie sl
+t in the —aoofr
+n oblong unrofp
+dity with sthe 
+tardust skereat
+d across Ogt. i
+ilvy moveou abd
+t, invisibule b
+t audibleok Lo.
+ing throuheh tg
+ telescopne, oe
+ saw a ci ocler
+f deep blnde au
+ the littoue rl
+nd planetmmswi 
+ing in thel fie
+d. It seesued m
+ch a litthie tl
+ng, so br aghti
+nd small stnd a
+ill, fainmaly t
+rked withnstra 
+verse str, pesi
+and slighflly t
+attened fthom r
+e perfectndrou 
+. But so leittl
+ it was, ilo ss
+very warmina p—
+’s head ogh lif
+t! It wasifas  
+ it quive bed,r
+ut reallys thi 
+was the tcolese
+pe vibratwing i
+th the actyivit
+ of the cwoockl
+rk that kthpt e
+e planet ien vi
+w. As I wedtcha
+, the plaseet n
+emed to glaow r
+rger and lemals
+r and to ncdvaa
+e and rec bde,e
+ut that wims sa
+ply that yey em
+ was tire  .  d
+
+--------average fitness values--------794.0307867775596
+791.2406713832507
+790.521479182017
+789.4357592833356
+787.7389702404413
+787.3172038484394
+786.3571518880406
+785.585971650933
+784.3557126502758
+783.5995999999033
+779.6989391504411
+777.8674254263711
+776.3196104068501
+773.2307598820229
+770.7142392741663
+765.8370359716458
+766.2531703633681
+766.0315981104198
+764.8236853641607
+765.2017764967396
+764.7376050309617
+762.4580613987923
+761.0561880252025
+757.0597312445851
+756.0728142040938
+755.4214048228685
+755.0649421535722
+755.7825801317217
+755.9044877918433
+756.050361735464
+756.7257666760994
+--------best fitness values--------782.3253805864869
+768.7468078528644
+768.7468078528644
+768.7468078528644
+768.7468078528644
+764.5558723054969
+764.5558723054969
+761.9205752865548
+761.9205752865548
+761.9205752865548
+761.9205752865548
+761.7112944240822
+761.5572063305655
+760.942679690222
+757.2080890346464
+757.2080890346464
+757.2080890346464
+753.9129462331535
+753.9129462331535
+753.9129462331535
+753.9129462331535
+753.9129462331535
+753.9129462331535
+753.9129462331535
+753.9129462331535
+753.9129462331535
+753.4484922626688
+753.4484922626688
+753.4484922626688
+753.4484922626688
+753.4484922626688

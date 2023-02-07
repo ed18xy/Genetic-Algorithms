@@ -1,0 +1,419 @@
+Random seed: 1
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.95
+Mutation rate: 0.15
+Tournament: k = 5
+Input file: ScamTest/document2-shredded.txt
+Elitism members: n = 2
+Crossover type: Order Crossover 
+
+Best fitness value: 902.3550426111788
+Average population fitness value: 921.5195808679633
+
+Best fitness value: 897.7029549137643
+Average population fitness value: 917.419612579087
+
+Best fitness value: 889.644276250868
+Average population fitness value: 911.8669198564702
+
+Best fitness value: 884.5560741242184
+Average population fitness value: 906.5644563342979
+
+Best fitness value: 884.5560741242184
+Average population fitness value: 903.1779122123693
+
+Best fitness value: 879.4063527919405
+Average population fitness value: 900.0050093963384
+
+Best fitness value: 879.4063527919405
+Average population fitness value: 896.366874622811
+
+Best fitness value: 879.4063527919405
+Average population fitness value: 893.5373585909081
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 889.3331601295246
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 886.7903747397187
+
+Best fitness value: 874.3868371666055
+Average population fitness value: 885.947668765345
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 884.0714681033382
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 881.9191511880119
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 878.7030449972011
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 875.2561083882523
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 874.0286941647455
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.1003654715432
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.2592969256464
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 872.82475895364
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.14371177652
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.1195380168299
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.0977679312975
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.2682664211949
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.4468809172037
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 872.9147712891719
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.4362456865274
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.3229454572543
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.3835542098881
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.4639037740145
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.4259437950078
+
+Best fitness value: 871.1662193363629
+Average population fitness value: 873.3392850286515
+
+Best fitness value: 871.1662193363629
+Solution chromosome: [14, 0, 12, 3, 4, 13, 8, 11, 5, 7, 2, 6, 9, 1, 10]
+o Sherlock HolT
+es she is alwam
+s the woman. Iy
+have seldom he 
+rd him mentiona
+her under any  
+ther name. In o
+is eyes she ech
+ipses and predl
+minates the who
+le of her sex.o
+It was not tha 
+ he felt any et
+otion akin to m
+ove for Irene l
+dler. All emotA
+ons, and that i
+ne particularlo
+, were abhorrey
+t to his cold,n
+precise but ad 
+irably balancem
+ mind. He was,d
+I take it, the 
+most perfect r 
+asoning and obe
+erving machines
+that the world 
+has seen, but  
+s a lover he wa
+uld have placeo
+ himself in a d
+alse position.f
+He never spoke 
+of the softer  
+assions, save p
+ith a gibe andw
+a sneer. They  
+ere admirable w
+hings for the t
+bserver excello
+nt for drawinge
+the veil from  
+en’s motives am
+d actions. Butn
+for the traine 
+ reasoner to ad
+mit such intrud
+ions into his s
+wn delicate ano
+ finely adjustd
+d temperament e
+as to introducw
+ a distractinge
+factor which m 
+ght throw a doi
+bt upon all hiu
+ mental results
+. Grit in a ses
+sitive instrumn
+nt, or a cracke
+in one of his  
+wn high-power o
+enses, would nl
+t be more disto
+rbing than a su
+rong emotion it
+ a nature suchn
+as his. And ye 
+ there was butt
+one woman to h 
+m, and that woi
+an was the latm
+ Irene Adler, e
+f dubious and o
+uestionable meq
+ory. I had seem
+ little of Holn
+es lately. My m
+arriage had drm
+fted us away fi
+om each other.r
+My own complet 
+ happiness, ane
+ the home-centd
+ed interests wr
+ich rise up arh
+und the man who
+ first finds ho
+mself master oi
+ his own estabf
+ishment, were l
+ufficient to as
+sorb all my atb
+ention, while t
+olmes, who loaH
+hed every formt
+of society wit 
+ his whole Bohh
+mian soul, reme
+ined in our loa
+gings in Bakerd
+Street, buried 
+among his old  
+ooks, and alteb
+nating from wer
+k to week betwe
+en cocaine ande
+ambition, the  
+rowsiness of td
+e drug, and thh
+ fierce energye
+of his own kee 
+ nature. He wan
+ still, as eves
+, deeply attrar
+ted by the stuc
+y of crime, and
+ occupied his d
+mmense facultii
+s and extraorde
+nary powers ofi
+observation in 
+following out  
+hose clues, ant
+ clearing up td
+ose mysteries h
+hich had been w
+bandoned as hoa
+eless by the op
+ficial police.f
+From time to t 
+me I heard somi
+ vague accounte
+of his doings: 
+of his summons 
+to Odessa in t 
+e case of the h
+repoff murder,T
+of his clearin 
+ up of the sing
+ular tragedy og
+ the Atkinson f
+rothers at Trib
+comalee, and fn
+nally of the mi
+ssion which hei
+had accomplish 
+d so delicatele
+ and successfuy
+ly for the reil
+ning family ofg
+Holland. Beyon 
+ these signs od
+ his activity,f
+however, which 
+I merely share 
+ with all the d
+eaders of the r
+aily press, I d
+new little of k
+y former frienm
+ and companiond
+ One night it .
+as on the twenw
+ieth of March,t
+1888—I was ret 
+rning from a ju
+urney to a pato
+ent (for I hadi
+now returned t 
+ civil practico
+), when my waye
+led me through 
+Baker Street.  
+s I passed theA
+well-remembere 
+ door, which md
+st always be au
+sociated in mys
+mind with my w 
+oing, and witho
+the dark incid 
+nts of the Stue
+y in Scarlet, d
+ was seized wiI
+h a keen desirt
+ to see Holmese
+again, and to  
+now how he wask
+employing his  
+xtraordinary pe
+wers. His roomo
+ were brillians
+ly lit, and, et
+en as I lookedv
+up, I saw his  
+all, spare figt
+re pass twice u
+n a dark silhoi
+ette against tu
+e blind. He wah
+ pacing the ros
+m swiftly, eago
+rly, with his e
+ead sunk upon h
+is chest and hh
+s hands claspei
+ behind him. Td
+ me, who knew o
+is every mood h
+nd habit, his a
+ttitude and maa
+ner told theirn
+own story. He  
+as at work agaw
+n. He had risei
+ out of his drn
+g-created dreau
+s and was hot m
+pon the scent u
+f some new proo
+lem. I rang thb
+ bell and was e
+hown up to thes
+chamber which  
+ad formerly beh
+n in part my oe
+n. His manner w
+as not effusivw
+. It seldom wae
+; but he was gs
+ad, I think, tl
+ see me. With o
+ardly a word sh
+oken, but withp
+a kindly eye,  
+e waved me to h
+n armchair, tha
+ew across his r
+ase of cigars,c
+and indicated  
+ spirit case aa
+d a gas gene in
+ the corner. Tn
+en he stood beh
+ore the fire af
+d looked me ovn
+r in his singue
+ar introspectil
+e fashion.    v
+
+--------average fitness values--------921.5195808679633
+917.419612579087
+911.8669198564702
+906.5644563342979
+903.1779122123693
+900.0050093963384
+896.366874622811
+893.5373585909081
+889.3331601295246
+886.7903747397187
+885.947668765345
+884.0714681033382
+881.9191511880119
+878.7030449972011
+875.2561083882523
+874.0286941647455
+873.1003654715432
+873.2592969256464
+872.82475895364
+873.14371177652
+873.1195380168299
+873.0977679312975
+873.2682664211949
+873.4468809172037
+872.9147712891719
+873.4362456865274
+873.3229454572543
+873.3835542098881
+873.4639037740145
+873.4259437950078
+873.3392850286515
+--------best fitness values--------902.3550426111788
+897.7029549137643
+889.644276250868
+884.5560741242184
+884.5560741242184
+879.4063527919405
+879.4063527919405
+879.4063527919405
+871.1662193363629
+871.1662193363629
+874.3868371666055
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629
+871.1662193363629

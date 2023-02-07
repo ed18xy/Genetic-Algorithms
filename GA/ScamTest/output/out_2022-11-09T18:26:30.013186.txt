@@ -1,0 +1,419 @@
+Random seed: 2
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 1.0
+Mutation rate: 0.1
+Tournament: k = 5
+Input file: ScamTest/document2-shredded.txt
+Elitism members: n = 2
+Crossover type: Order Crossover 
+
+Best fitness value: 904.2218491200591
+Average population fitness value: 922.772567176399
+
+Best fitness value: 897.774557792481
+Average population fitness value: 918.4992405536971
+
+Best fitness value: 898.2126882009134
+Average population fitness value: 914.1876950432671
+
+Best fitness value: 891.0191397336116
+Average population fitness value: 909.7053317827238
+
+Best fitness value: 888.1417938714119
+Average population fitness value: 905.7919906546476
+
+Best fitness value: 884.4293882549276
+Average population fitness value: 902.4591002986792
+
+Best fitness value: 882.1231419611684
+Average population fitness value: 898.7939831004705
+
+Best fitness value: 879.2171159162765
+Average population fitness value: 895.6830925846729
+
+Best fitness value: 875.4420031457463
+Average population fitness value: 894.8282965744492
+
+Best fitness value: 875.1466356094355
+Average population fitness value: 893.2418345651173
+
+Best fitness value: 878.6564221233075
+Average population fitness value: 890.934644196696
+
+Best fitness value: 871.93319196973
+Average population fitness value: 890.3706392839096
+
+Best fitness value: 871.93319196973
+Average population fitness value: 889.7826335756926
+
+Best fitness value: 871.93319196973
+Average population fitness value: 888.1533468707014
+
+Best fitness value: 871.93319196973
+Average population fitness value: 886.6522473573376
+
+Best fitness value: 871.93319196973
+Average population fitness value: 885.7413266326138
+
+Best fitness value: 871.93319196973
+Average population fitness value: 884.4675498586707
+
+Best fitness value: 871.93319196973
+Average population fitness value: 883.0935088834198
+
+Best fitness value: 871.93319196973
+Average population fitness value: 879.8877652665517
+
+Best fitness value: 871.93319196973
+Average population fitness value: 875.5554528147467
+
+Best fitness value: 871.93319196973
+Average population fitness value: 873.4909021317659
+
+Best fitness value: 871.93319196973
+Average population fitness value: 873.7827681097623
+
+Best fitness value: 871.93319196973
+Average population fitness value: 873.3015261047552
+
+Best fitness value: 871.93319196973
+Average population fitness value: 872.799557561082
+
+Best fitness value: 871.93319196973
+Average population fitness value: 873.3348338375321
+
+Best fitness value: 871.93319196973
+Average population fitness value: 872.8378468805754
+
+Best fitness value: 871.93319196973
+Average population fitness value: 873.483728401023
+
+Best fitness value: 871.93319196973
+Average population fitness value: 872.7881389098198
+
+Best fitness value: 871.93319196973
+Average population fitness value: 873.2310980771354
+
+Best fitness value: 871.93319196973
+Average population fitness value: 873.9084216823337
+
+Best fitness value: 871.93319196973
+Average population fitness value: 873.4193434380453
+
+Best fitness value: 871.93319196973
+Solution chromosome: [8, 11, 5, 7, 2, 6, 9, 1, 10, 14, 0, 12, 3, 4, 13]
+lock HolTo Sher
+ is alwames she
+woman. Iys the 
+eldom he have s
+ mentionard him
+der any  her un
+ame. In other n
+s she echis eye
+and predlipses 
+s the whominate
+her sex.ole of 
+ not tha It was
+lt any et he fe
+akin to motion 
+r Irene love fo
+All emotAdler. 
+nd that ions, a
+ticularlone par
+ abhorrey, were
+is cold,nt to h
+e but ad precis
+ balancemirably
+ He was,d mind.
+ it, the I take
+erfect r most p
+g and obeasonin
+ machineserving
+he world that t
+en, but  has se
+ver he was a lo
+ve placeould ha
+lf in a d himse
+osition.false p
+er spoke He nev
+ softer  of the
+s, save passion
+gibe andwith a 
+r. They  a snee
+mirable were ad
+for the things 
+r excellobserve
+ drawingent for
+il from  the ve
+otives amen’s m
+ons. Butnd acti
+e traine for th
+ner to ad reaso
+ch intrudmit su
+nto his sions i
+icate anown del
+y adjustd finel
+erament ed temp
+introducwas to 
+tractinge a dis
+ which m factor
+row a doight th
+n all hiubt upo
+l results menta
+ in a ses. Grit
+ instrumnsitive
+ a crackent, or
+ of his  in one
+h-power own hig
+ would nlenses,
+ore distot be m
+than a surbing 
+motion itrong e
+ure suchn a nat
+. And ye as his
+ was butt there
+man to h one wo
+ that woim, and
+ the latman was
+ Adler, e Irene
+ous and of dubi
+nable mequestio
+ had seemory. I
+e of Holn littl
+ely. My mes lat
+e had drmarriag
+s away fifted u
+h other.rom eac
+ complet My own
+ness, ane happi
+ome-centd the h
+erests wred int
+se up arhich ri
+e man whound th
+ finds ho first
+master oimself 
+wn estabf his o
+t, were lishmen
+ent to asuffici
+ll my atbsorb a
+, while tention
+ who loaHolmes,
+ery formthed ev
+iety wit of soc
+hole Bohh his w
+oul, rememian s
+n our loained i
+in Bakerdgings 
+, buried Street
+his old  among 
+and altebooks, 
+ from wernating
+eek betwek to w
+aine andeen coc
+on, the  ambiti
+ess of tdrowsin
+, and thhe drug
+e energye fierc
+ own kee of his
+e. He wan natur
+, as eves still
+ly attrar, deep
+ the stucted by
+rime, andy of c
+ied his d occup
+ facultiimmense
+extraordes and 
+owers ofinary p
+ation in observ
+ing out  follow
+lues, anthose c
+ing up td clear
+steries hose my
+ad been which h
+ed as hoabandon
+by the opeless 
+ police.fficial
+ime to t From t
+eard somime I h
+ accounte vague
+ doings: of his
+ summons of his
+ssa in t to Ode
+ of the he case
+ murder,Trepoff
+ clearin of his
+ the sing up of
+ragedy ogular t
+tkinson f the A
+s at Tribrother
+e, and fncomale
+of the minally 
+which heission 
+complish had ac
+elicateled so d
+uccessfuy and s
+ the reilly for
+amily ofgning f
+d. Beyon Hollan
+ signs od these
+ctivity,f his a
+r, which howeve
+ly share I mere
+all the d with 
+ of the readers
+ress, I daily p
+ttle of knew li
+er frienmy form
+ompaniond and c
+ight it . One n
+the twenwas on 
+f March,tieth o
+ was ret 1888—I
+from a jurning 
+to a patourney 
+or I hadient (f
+turned t now re
+ practico civil
+n my waye), whe
+ through led me
+Street.  Baker 
+ssed theAs I pa
+emembere well-r
+ which md door,
+ays be aust alw
+ed in myssociat
+ith my w mind w
+and withooing, 
+rk incid the da
+ the Stuents of
+carlet, dy in S
+eized wiI was s
+en desirth a ke
+e Holmese to se
+ and to  again,
+w he wasknow ho
+ing his  employ
+dinary pextraor
+His roomowers. 
+brillians were 
+, and, etly lit
+I lookedven as 
+saw his  up, I 
+pare figtall, s
+s twice ure pas
+rk silhoin a da
+gainst tuette a
+d. He wahe blin
+g the ros pacin
+tly, eagom swif
+ith his erly, w
+nk upon head su
+st and hhis che
+s claspeis hand
+d him. Td behin
+ho knew o me, w
+ry mood his eve
+it, his and hab
+e and maattitud
+ld theirnner to
+ory. He  own st
+work agawas at 
+had risein. He 
+f his drn out o
+ted dreaug-crea
+was hot ms and 
+e scent upon th
+ new proof some
+ rang thblem. I
+and was e bell 
+p to theshown u
+r which  chambe
+merly behad for
+art my oen in p
+ manner wn. His
+ effusivwas not
+eldom wae. It s
+he was gs; but 
+think, tlad, I 
+e. With o see m
+a word shardly 
+but withpoken, 
+ly eye,  a kind
+d me to he wave
+hair, than armc
+oss his rew acr
+ cigars,case of
+dicated  and in
+t case aa spiri
+s gene ind a ga
+orner. Tn the c
+stood behen he 
+e fire afore th
+ed me ovnd look
+is singuer in h
+rospectilar int
+ion.    ve fash
+
+--------average fitness values--------922.772567176399
+918.4992405536971
+914.1876950432671
+909.7053317827238
+905.7919906546476
+902.4591002986792
+898.7939831004705
+895.6830925846729
+894.8282965744492
+893.2418345651173
+890.934644196696
+890.3706392839096
+889.7826335756926
+888.1533468707014
+886.6522473573376
+885.7413266326138
+884.4675498586707
+883.0935088834198
+879.8877652665517
+875.5554528147467
+873.4909021317659
+873.7827681097623
+873.3015261047552
+872.799557561082
+873.3348338375321
+872.8378468805754
+873.483728401023
+872.7881389098198
+873.2310980771354
+873.9084216823337
+873.4193434380453
+--------best fitness values--------904.2218491200591
+897.774557792481
+898.2126882009134
+891.0191397336116
+888.1417938714119
+884.4293882549276
+882.1231419611684
+879.2171159162765
+875.4420031457463
+875.1466356094355
+878.6564221233075
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973
+871.93319196973

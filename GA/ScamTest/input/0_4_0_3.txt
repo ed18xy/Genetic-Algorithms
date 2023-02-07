@@ -1,0 +1,9 @@
+200
+3
+30
+ScamTest/document1-shredded.txt
+0.95
+0.15
+5
+O
+2

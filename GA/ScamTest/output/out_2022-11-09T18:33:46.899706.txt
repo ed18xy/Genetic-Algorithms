@@ -1,0 +1,385 @@
+Random seed: 3
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.95
+Mutation rate: 0.15
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Uniform Order Crossover 
+
+Best fitness value: 780.6467923459898
+Average population fitness value: 793.9245553426163
+
+Best fitness value: 775.3419491487938
+Average population fitness value: 791.3097625162624
+
+Best fitness value: 775.3172246223467
+Average population fitness value: 789.9899182538826
+
+Best fitness value: 767.8231395476299
+Average population fitness value: 788.2244699305686
+
+Best fitness value: 767.8231395476299
+Average population fitness value: 787.5839897595713
+
+Best fitness value: 767.8231395476299
+Average population fitness value: 786.3962472539076
+
+Best fitness value: 767.8231395476299
+Average population fitness value: 785.8958124347316
+
+Best fitness value: 763.94873102408
+Average population fitness value: 784.6302151702237
+
+Best fitness value: 763.7780939728724
+Average population fitness value: 781.6018612646687
+
+Best fitness value: 760.0546797790381
+Average population fitness value: 780.4814642218464
+
+Best fitness value: 760.0546797790381
+Average population fitness value: 778.0247204449469
+
+Best fitness value: 756.0299022490445
+Average population fitness value: 775.2010254705455
+
+Best fitness value: 756.0299022490445
+Average population fitness value: 772.3262133308106
+
+Best fitness value: 756.0299022490445
+Average population fitness value: 769.5263680544846
+
+Best fitness value: 756.0299022490445
+Average population fitness value: 766.5530219547268
+
+Best fitness value: 756.0299022490445
+Average population fitness value: 763.6211231252945
+
+Best fitness value: 755.978789121843
+Average population fitness value: 759.7334449796515
+
+Best fitness value: 755.978789121843
+Average population fitness value: 758.0910740099899
+
+Best fitness value: 755.978789121843
+Average population fitness value: 758.8920598126878
+
+Best fitness value: 755.978789121843
+Average population fitness value: 760.2370793675759
+
+Best fitness value: 755.978789121843
+Average population fitness value: 762.889994056472
+
+Best fitness value: 755.978789121843
+Average population fitness value: 761.56172412877
+
+Best fitness value: 755.978789121843
+Average population fitness value: 758.6665728217511
+
+Best fitness value: 755.978789121843
+Average population fitness value: 757.5425207599619
+
+Best fitness value: 755.978789121843
+Average population fitness value: 757.3246562024251
+
+Best fitness value: 755.978789121843
+Average population fitness value: 757.5779804190599
+
+Best fitness value: 755.978789121843
+Average population fitness value: 757.542513014069
+
+Best fitness value: 755.978789121843
+Average population fitness value: 757.4509221457504
+
+Best fitness value: 755.978789121843
+Average population fitness value: 757.807478488527
+
+Best fitness value: 755.978789121843
+Average population fitness value: 757.5329167375785
+
+Best fitness value: 755.978789121843
+Average population fitness value: 757.671830473602
+
+Best fitness value: 755.978789121843
+Solution chromosome: [14, 7, 12, 13, 11, 1, 9, 6, 0, 4, 3, 8, 2, 10, 5]
+Thns  Martiasee
+em cato havelc 
+ulir ted thedea
+sc amnt withaze
+inty— subtlethg
+eiati mathemcar
+l  isearning el
+viar ently find
+ e oucess ofrsx
+—ave d to hacan
+rrtheed out iri
+ ponseparati wr
+it-ni a wellghh
+ pnanrfect uime
+itur . Had oiny
+stperuments mir
+tte md it, wige
+hten have seth 
+e g tatherinrog
+ubacke far b il
+n teehe ninentt
+h  Meentury.n c
+lipare Schiaelk
+li thwatchede  
+re—it planet id
+s thedd, by--bo
+yeor  that fco,
+unntuless cerit
+ess bMars haee 
+n  ofhe star wt
+arledbut fai t—
+o t tnterprehei
+ fng uctuatiapl
+peof rances tha
+e  tharkingseym
+ m wepped solla
+.  till thatmeA
+ tanse Marti mh
+useen have b gt
+etdy.ing rea Dt
+uroppng the osi
+itighon of etei
+enfouninety r  
+a ghtreat li wg
+as thseen one  
+ild puminatearl
+t iskf the d, o
+fihe st at tLir
+cktorObservay, 
+ terren by Poth
+in, aof Nicend 
+ ttheen by or h
+ob Enervers.gls
+iss h readereah
+rdirsof it ft  
+inue the issof 
+ Ntedture da Aa
+ug amst 2. I iu
+nc thined toinl
+k s bhat thilat
+zee bmay havee 
+n inghe cast ot
+f  guhe hugen,t
+ ist  the vapin
+t o tunk inthes
+ir frplanet,om 
+ wir ich theshh
+otire were fd s
+atulius. Pecar 
+ m asrkings, ya
+etineunexplad, 
+ w nere seenare
+ tof e site thh
+atk doutbreaur 
+inxt  the netwg
+o onsppositi. o
+Thbur storm ste
+ uix on us syep
+arw.  ago noAss
+ Moacrs apprhea
+d on,ppositi Lo
+avJavlle of a e
+seres the wi ot
+f onohe astrmit
+cage  exchanpal
+lpwittating h i
+thg i amazinnte
+elof igence a l
+hueake outbr og
+f cenncandest i
+gahe  upon tpls
+anad t. It hoce
+cuardred tows r
+mif tnight ohed
+ tandelfth;  tw
+hescospectrope 
+,  heo which ht
+ad reat onceso 
+rtcatd, indiede
+ a flmass ofam 
+inhie gas, cflg
+y , mydrogenovh
+inn e with anog
+rmcitus veloy o
+tois ards theaw
+rtjet. This  oh
+f  beire hadcof
+mele invisibab 
+outer a quar pt
+as. H twelvee t
+cot tpared io m
+a  puolossalffc
+ osud flame def
+nlole and vinty
+lyd osquirteut 
+ oane the plt,f
+ “ng s flamigaa
+se ou rushedt s
+of A a gun.”si 
+ngpprlarly aopu
+rise te phraita
+ pet oved. Ythr
+e  thext dayern
+e ingas noth ow
+f thehis in  pt
+appt rs excea e
+lie itle notn t
+thTel Daily ege
+ratheh, and  wp
+orin d went igl
+no onance ofe r
+ofvesthe grat  
+daat gers thevn
+ernedthreate t 
+heacehuman r.  
+I t hight noavm
+e  theard ofe h
+ert aption allu
+ h med I nott a
+Oge wlvy, theli
+l-tronown asnok
+meter, at Otshr
+aw im He wasme.
+nstedly exci ae
+t , ahe newsndt
+ ices the exs n
+oflinhis feegs 
+ ie uvited mp n
+toturtake a n  
+wihath him t nt
+igscrt in a uth
+in re of thed y
+pl spnet. Inita
+e hatf all t ho
+asd shappenein 
+cel r I stilem,
+em vier thatgib
+l tinery disctv
+lyack the bl a:
+ndobssilent er 
+vae sory, thhat
+doerned lant tw
+hrfeewing a blo
+e n tlow upoheg
+ ftheoor in  cl
+or ster, theean
+dy ofticking t 
+herk clockwoof 
+ tcope telese,h
+ te se littllih
+t oofn the r—ai
+n rofblong puno
+dithey with  st
+tareadust stker
+d t. cross iOga
+il aby movedouv
+t,le invisibbu 
+t  Loudible.oka
+inh t througheg
+ t, olescopenee
+ sclew a cir oa
+f e aeep blundd
+ te re littlouh
+ndswiplanet mm 
+in fi in theelg
+d.ed It seemsu 
+che ta littlhi 
+ngght so bri a,
+ndnd small ast 
+illy , faintmal
+rktrad with nse
+vepesse stri, r
+anly  slightfld
+atom ened frtht
+e rouerfect ndp
+. ittut so lleB
+ io s was, silt
+vea py warm—inr
+’s lihead ofgh 
+t!as It was if 
+ ied, quiver bt
+utthireally s  
+wales the tecos
+peng vibratiwi 
+thivithe actty 
+ oock the clwof
+rkpt that keth 
+e n vlanet iiep
+w.tchAs I waed 
+, et he planset
+emow d to grlae
+rgmalr and slee
+r dvand to anca
+e de,nd rece ba
+uts sthat waim 
+ply e that myey
+ w.  s tired  a
+
+--------average fitness values--------793.9245553426163
+791.3097625162624
+789.9899182538826
+788.2244699305686
+787.5839897595713
+786.3962472539076
+785.8958124347316
+784.6302151702237
+781.6018612646687
+780.4814642218464
+778.0247204449469
+775.2010254705455
+772.3262133308106
+769.5263680544846
+766.5530219547268
+763.6211231252945
+759.7334449796515
+758.0910740099899
+758.8920598126878
+760.2370793675759
+762.889994056472
+761.56172412877
+758.6665728217511
+757.5425207599619
+757.3246562024251
+757.5779804190599
+757.542513014069
+757.4509221457504
+757.807478488527
+757.5329167375785
+757.671830473602
+--------best fitness values--------780.6467923459898
+775.3419491487938
+775.3172246223467
+767.8231395476299
+767.8231395476299
+767.8231395476299
+767.8231395476299
+763.94873102408
+763.7780939728724
+760.0546797790381
+760.0546797790381
+756.0299022490445
+756.0299022490445
+756.0299022490445
+756.0299022490445
+756.0299022490445
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843
+755.978789121843

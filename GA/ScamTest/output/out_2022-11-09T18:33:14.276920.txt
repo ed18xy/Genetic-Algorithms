@@ -1,0 +1,419 @@
+Random seed: 1
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.95
+Mutation rate: 0.15
+Tournament: k = 5
+Input file: ScamTest/document2-shredded.txt
+Elitism members: n = 2
+Crossover type: Uniform Order Crossover 
+
+Best fitness value: 902.3550426111788
+Average population fitness value: 921.5195808679633
+
+Best fitness value: 901.0691180042903
+Average population fitness value: 919.4062532249804
+
+Best fitness value: 896.4224020622194
+Average population fitness value: 918.2886926182238
+
+Best fitness value: 894.8496435013914
+Average population fitness value: 916.6162664218375
+
+Best fitness value: 895.5318780853521
+Average population fitness value: 916.5403044968889
+
+Best fitness value: 898.0820505177753
+Average population fitness value: 915.7611920813412
+
+Best fitness value: 897.3976015425844
+Average population fitness value: 914.4671034734015
+
+Best fitness value: 895.0179791568006
+Average population fitness value: 914.5037054068204
+
+Best fitness value: 892.303560938618
+Average population fitness value: 913.1086956138487
+
+Best fitness value: 894.136813256493
+Average population fitness value: 912.4782792748841
+
+Best fitness value: 894.136813256493
+Average population fitness value: 911.4850684536538
+
+Best fitness value: 889.2599436107145
+Average population fitness value: 911.5581247609506
+
+Best fitness value: 890.9541541280021
+Average population fitness value: 908.2606068887187
+
+Best fitness value: 890.9541541280021
+Average population fitness value: 906.2747518591079
+
+Best fitness value: 888.8614844716192
+Average population fitness value: 901.4286165813837
+
+Best fitness value: 888.8614844716192
+Average population fitness value: 898.1773614285762
+
+Best fitness value: 887.877014910525
+Average population fitness value: 895.7868410352944
+
+Best fitness value: 887.877014910525
+Average population fitness value: 894.2453714297271
+
+Best fitness value: 885.6107781022619
+Average population fitness value: 893.0608964328919
+
+Best fitness value: 885.6107781022619
+Average population fitness value: 892.2904228871059
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 891.8555646888093
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 890.4406730366958
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 890.7424676670057
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 889.5398914682926
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 887.073945349415
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 886.7933444950603
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 886.9758998010689
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 886.8218535115153
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 886.7621869794276
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 887.0829811737481
+
+Best fitness value: 885.4519179729556
+Average population fitness value: 887.330225056579
+
+Best fitness value: 885.4519179729556
+Solution chromosome: [10, 14, 6, 9, 1, 4, 7, 2, 13, 8, 11, 5, 0, 12, 3]
+ToHolek rloc Sh
+melwah ae iss s
+ys. Iean wom th
+ h he omseldave
+arionintm med h
+ hny u anderer 
+otIn  . nameher
+hi ecyhees ss e
+lireds p andpse
+om whthees tina
+olex.f s here o
+ Ithaat s not w
+t y efanelt he 
+moto nn  akitio
+lone freor Ive 
+Admot. e Alller
+ioat  thand ns,
+onarlaulrtice p
+y,rrerhoe ab we
+ntld, cohis  to
+ p adiutse brec
+mincellay barab
+d as,d w. Hemin
+ Ithek, e it ta
+ mt r ecperfost
+ea obindng ason
+seinenchg marvi
+ trld wothe hat
+ hut s been,as 
+ase wl hover a 
+ouacehplave ld 
+d  a sinelf him
+faon. tiposilse
+ Hokeespver e n
+ oer hfte sof t
+pave osans, ssi
+wiandae  gibth 
+ aey eTher.  sn
+wele aabdmirre 
+thhe s t foring
+obellvxcer eser
+eningoawr drt f
+ tom vfreil he 
+mes a vemotin’s
+ndButt. ions ac
+ finetrahe tor 
+d o as tonerrea
+dmtrusinuch it 
+siis   hintoons
+ow anetelican d
+d ustedjly afin
+ednt mmepera te
+waducoro ints t
+e ingictstraa d
+ fh moicr whact
+ig dot ahrowht 
+ub hipllon at u
+s ulttesal rmen
+s. sei at in Gr
+nsrumvste initi
+enackocrr a t, 
+ iis n he ofn o
+ower iowgh-pn h
+led nsul, wonse
+otist  dmore be
+ura sgn  thabin
+trn i ioemotong
+n ucha sturea n
+ a yeinds. As h
+t butrs e wathe
+ oo hw tomanne 
+im wonatd th, a
+malatae s thn w
+e r, nlee AdIre
+ofnd b aious du
+qu meileonabest
+mosee d I hary.
+n Holtf le olit
+meMy a. telys l
+ma draadge hrri
+ify f waus ated
+roer.athch om e
+ Mletwmpn coy o
+e  anps,ineshap
+d ent -chomethe
+res wnsttered i
+hi arrupise ch 
+ou whtanhe mnd 
+o s hsndt fifir
+imr ofte massel
+f tab esown his
+lire ewent, shm
+suo ac tientffi
+bs at myall orb
+tele ohin, wnti
+Holoaso , whlme
+thorme fveryed 
+ owitoy cietf s
+h Boh e wholhis
+emrem , soulian
+ai lo urin oned
+dgkersBa in ing
+ Siedeurt, btre
+ ald g o hismon
+bolte, a andoks
+rn wenomg frati
+eketw  bweek to
+eeandoe cainn c
+ ahe t tion,mbi
+drf ti onessows
+he thundg, a dr
+e rgyrnece efie
+ okeein s owf h
+n  wauHere. nat
+s evels l, asti
+r,traeatply  de
+ctstube y thed 
+dy an e,crim of
+d is u hpiedocc
+imltiscue famen
+esorddra ext an
+in of rspoweary
+ o inronvatibse
+ fut o owingoll
+th an s,clueose
+d p ta uringcle
+hoes mriystese 
+when  behad ich
+ab hooasned and
+pee osth by les
+ffce.alil poici
+ Fo t  ttimerom
+imsom d heare I
+e untucoe acvag
+ ogs:iins dof h
+ oonsimms suf h
+ tn td iessao O
+hehe s te of ca
+Trer,frdf muepo
+ orinieas clf h
+g sinoe f thup 
+guy o edtraglar
+f on  nsAtkithe
+brTriet rs aoth
+ncd flanee, oma
+ine myth of all
+is hench whisio
+ hishaplccomad 
+edtel cadeli so
+y sfu essuccand
+llreioe r thy f
+gn of lyfamiing
+ HyonaBend. oll
+d s osgne sithe
+f ty, viactihis
+ hichvwher, owe
+ Iarershely  me
+d he h t allwit
+rehe r ts ofade
+da I  s,presily
+knof le ittlew 
+myienrfrmer  fo
+d ion ancompand
+. it  t nighOne
+wawenn t thes o
+tich, arof Meth
+ 1ret—s I wa888
+ura jgm  fronin
+oupatya  to rne
+iehad(I for nt 
+ nd trneeturow 
+o ticiacl prciv
+e)wayhy en m, w
+ lughmroe thed 
+ Bt. ree Strake
+Asthepd asse I 
+ were-mbremeell
+d h mric, whdoo
+use al bwayst a
+ss myainted oci
+ my w  mwithind
+ooith, w anding
+ tciddinark he 
+enStuoe f thts 
+dyt,  leScar in
+I  wi edseizwas
+thsirkdeeen  a 
+e messolee Hto 
+ ato nd , angai
+knwashe ow how 
+ eis o hyingmpl
+exy poarrdintra
+owoom. r Hisers
+s ianell briwer
+tl, eindt, ay l
+vekedsoo I ln a
+ uis I h sawp, 
+tafig e sparll,
+urce awiss te p
+inlhodsiark  a 
+uet t nsagaitte
+he waiHend.  bl
+s  roiheng tpac
+omeagi, ftly sw
+eris   hwithly,
+heon supunk ad 
+hid hhanest s c
+isspenlads c ha
+d . Tiimnd hbeh
+o ew  knwho me,
+hiod vmoery s e
+anis a hbit,d h
+at maundde atit
+nneirtthold er 
+ oHe s. torywn 
+waagatk  wors a
+inisee r had. H
+n  dr isof hout
+ugreae dated-cr
+msot d h was an
+upnt tcehe son 
+ofpromw e ne so
+bl th ngI raem.
+e as l w andbel
+shthe o up town
+ cch bhier wham
+ha beolyrmerd f
+eny o  mpart in
+wner inns ma. H
+wasivofut efs n
+e. wa omseld It
+s;s gtwa he  bu
+la, tInk thid, 
+o th  Wime. see
+had syor a wrdl
+poith, w butken
+ ae, neydly  ki
+heto ve ed m wa
+an thmr,chai ar
+reis c hrossw a
+cars,ogaf cise 
+ aed iatndicnd 
+a e arasit cspi
+nde igenas g a 
+n . T ercornthe
+he beeod ston h
+foe atirhe fre 
+nd ovomeked  lo
+erngu sihis  in
+lactinpetrosr i
+ve   s. hion fa
+
+--------average fitness values--------921.5195808679633
+919.4062532249804
+918.2886926182238
+916.6162664218375
+916.5403044968889
+915.7611920813412
+914.4671034734015
+914.5037054068204
+913.1086956138487
+912.4782792748841
+911.4850684536538
+911.5581247609506
+908.2606068887187
+906.2747518591079
+901.4286165813837
+898.1773614285762
+895.7868410352944
+894.2453714297271
+893.0608964328919
+892.2904228871059
+891.8555646888093
+890.4406730366958
+890.7424676670057
+889.5398914682926
+887.073945349415
+886.7933444950603
+886.9758998010689
+886.8218535115153
+886.7621869794276
+887.0829811737481
+887.330225056579
+--------best fitness values--------902.3550426111788
+901.0691180042903
+896.4224020622194
+894.8496435013914
+895.5318780853521
+898.0820505177753
+897.3976015425844
+895.0179791568006
+892.303560938618
+894.136813256493
+894.136813256493
+889.2599436107145
+890.9541541280021
+890.9541541280021
+888.8614844716192
+888.8614844716192
+887.877014910525
+887.877014910525
+885.6107781022619
+885.6107781022619
+885.4519179729556
+885.4519179729556
+885.4519179729556
+885.4519179729556
+885.4519179729556
+885.4519179729556
+885.4519179729556
+885.4519179729556
+885.4519179729556
+885.4519179729556
+885.4519179729556

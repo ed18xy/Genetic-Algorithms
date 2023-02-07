@@ -1,0 +1,211 @@
+Random seed: 1
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 1.0
+Mutation rate: 0.1
+Tournament: k = 5
+Input file: ScamTest/document1-shredded.txt
+Elitism members: n = 2
+Crossover type: Uniform Order Crossover 
+
+Best fitness value: 154.65422591163275
+Average population fitness value: 157.38675076064402
+
+Best fitness value: 154.105902676547
+Average population fitness value: 156.9536291731707
+
+Best fitness value: 153.47915405545365
+Average population fitness value: 156.56673531056123
+
+Best fitness value: 152.09832597626425
+Average population fitness value: 156.31085953007184
+
+Best fitness value: 152.09832597626425
+Average population fitness value: 156.18396697822303
+
+Best fitness value: 152.8384855458902
+Average population fitness value: 155.90829395557827
+
+Best fitness value: 152.17119745641727
+Average population fitness value: 155.56743401969104
+
+Best fitness value: 152.17119745641727
+Average population fitness value: 155.51257044112484
+
+Best fitness value: 152.17119745641727
+Average population fitness value: 155.39458555332914
+
+Best fitness value: 151.46317384319343
+Average population fitness value: 154.71726941359003
+
+Best fitness value: 151.96675435624402
+Average population fitness value: 154.401124072191
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 153.73653245459911
+
+Best fitness value: 151.12430874376687
+Average population fitness value: 153.3093439586407
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 153.21727116577867
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 152.70229752079894
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 152.46407641171828
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 152.02902992520401
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.6082970484147
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.36348162491396
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.0881816597171
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.08598000410115
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.06155636280914
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.04930270128904
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.03716085201557
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.10547045016654
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.0852801043908
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.0657098452539
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.06725082408522
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.10798312588327
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.09444522876476
+
+Best fitness value: 150.91060011572188
+Average population fitness value: 151.12848700243404
+
+Best fitness value: 150.91060011572188
+Solution chromosome: [2, 0, 7, 12, 5, 14, 11, 13, 10, 4, 1, 3, 8, 6, 9]
+Hey,okot  l ame
+. Ityo  f'surau
+lt, s 'eritevyo
+ne'sula w ft,ho
+ car A. yesreou
+ up  trs?fohi A
+re y L?k,ouoo I
+ juseentot d  k
+now,usath ce e 
+city fsin ilyg.
+ Okalo , y,okth
+e ciis lyty fin
+g, we rghe'fiti
+ng armaofn y  r
+obotan I s,d ha
+ve aw od  banar
+row.neof  N oth
+is ms ensaksee.
+ Butm 'in Igog 
+backt uer othe 
+beca ies ust'my
+ jobkaO A. y?nd
+ I ct ' mandoy 
+job  bdysanabit
+. Itesot  dn'ma
+tterathou w y d
+id, wh  yoratou
+ werIf oue. y g
+o ouhet, t reyo
+u fi, td ghanyo
+u fi ttkigho ll
+. Stin eray he,
+ you ged,'roo I
+'ll d nurseyo b
+rothto omer ce 
+findu,out y b i
+f yotesouu p t 
+thatoroyo d, u 
+are Av geanenr.
+ Alrt,hooig gd 
+chateaY t. h,he
+ cits iyiy flng
+.              
+
+--------average fitness values--------157.38675076064402
+156.9536291731707
+156.56673531056123
+156.31085953007184
+156.18396697822303
+155.90829395557827
+155.56743401969104
+155.51257044112484
+155.39458555332914
+154.71726941359003
+154.401124072191
+153.73653245459911
+153.3093439586407
+153.21727116577867
+152.70229752079894
+152.46407641171828
+152.02902992520401
+151.6082970484147
+151.36348162491396
+151.0881816597171
+151.08598000410115
+151.06155636280914
+151.04930270128904
+151.03716085201557
+151.10547045016654
+151.0852801043908
+151.0657098452539
+151.06725082408522
+151.10798312588327
+151.09444522876476
+151.12848700243404
+--------best fitness values--------154.65422591163275
+154.105902676547
+153.47915405545365
+152.09832597626425
+152.09832597626425
+152.8384855458902
+152.17119745641727
+152.17119745641727
+152.17119745641727
+151.46317384319343
+151.96675435624402
+150.91060011572188
+151.12430874376687
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188
+150.91060011572188

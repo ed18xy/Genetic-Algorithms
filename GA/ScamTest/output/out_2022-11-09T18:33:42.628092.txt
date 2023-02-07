@@ -1,0 +1,385 @@
+Random seed: 2
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.95
+Mutation rate: 0.15
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Uniform Order Crossover 
+
+Best fitness value: 779.4665116981255
+Average population fitness value: 793.8810854123244
+
+Best fitness value: 777.9017888345492
+Average population fitness value: 791.4148960115928
+
+Best fitness value: 775.8016237085976
+Average population fitness value: 789.9669117076946
+
+Best fitness value: 771.1568482865607
+Average population fitness value: 789.5508721852685
+
+Best fitness value: 769.1890636269077
+Average population fitness value: 788.708155654745
+
+Best fitness value: 770.1396788605875
+Average population fitness value: 787.2285036691627
+
+Best fitness value: 765.3468979311463
+Average population fitness value: 786.8011656494917
+
+Best fitness value: 773.306215763396
+Average population fitness value: 787.3332865131597
+
+Best fitness value: 772.3222716064676
+Average population fitness value: 787.252970724499
+
+Best fitness value: 768.8179461018293
+Average population fitness value: 786.3322337023228
+
+Best fitness value: 768.9292629513367
+Average population fitness value: 785.2956130199498
+
+Best fitness value: 765.6097891266422
+Average population fitness value: 783.8488517620399
+
+Best fitness value: 762.3696421123151
+Average population fitness value: 782.8833303027473
+
+Best fitness value: 762.3696421123151
+Average population fitness value: 781.4555958294454
+
+Best fitness value: 761.2654366264433
+Average population fitness value: 780.4448731960051
+
+Best fitness value: 754.1261392151524
+Average population fitness value: 777.9684205737809
+
+Best fitness value: 754.1261392151524
+Average population fitness value: 775.4610970268808
+
+Best fitness value: 754.1261392151524
+Average population fitness value: 773.1504575755986
+
+Best fitness value: 753.8451000409132
+Average population fitness value: 769.3394363556424
+
+Best fitness value: 743.340042000977
+Average population fitness value: 765.4470460667784
+
+Best fitness value: 743.340042000977
+Average population fitness value: 762.9693647193606
+
+Best fitness value: 743.340042000977
+Average population fitness value: 761.9651201554466
+
+Best fitness value: 743.340042000977
+Average population fitness value: 759.3509373503823
+
+Best fitness value: 743.340042000977
+Average population fitness value: 755.8588679556292
+
+Best fitness value: 743.340042000977
+Average population fitness value: 748.8618732666254
+
+Best fitness value: 743.340042000977
+Average population fitness value: 745.2668884944059
+
+Best fitness value: 743.340042000977
+Average population fitness value: 745.4537511866203
+
+Best fitness value: 743.340042000977
+Average population fitness value: 744.8614453664169
+
+Best fitness value: 743.340042000977
+Average population fitness value: 745.2061536964216
+
+Best fitness value: 743.340042000977
+Average population fitness value: 745.2355935510757
+
+Best fitness value: 743.340042000977
+Average population fitness value: 745.510373149606
+
+Best fitness value: 743.340042000977
+Solution chromosome: [14, 7, 5, 1, 9, 6, 0, 4, 3, 8, 12, 13, 11, 2, 10]
+The Martians se
+em to have calc
+ulated their de
+scent with amaz
+ing subtlety—th
+eir mathematica
+l learning is e
+vidently far in
+ excess of ours
+—and to have ca
+rried out their
+ preparations w
+ith a well-nigh
+ perfect unanim
+ity. Had our in
+struments permi
+tted it, we mig
+ht have seen th
+e gathering tro
+uble far back i
+n the nineteent
+h century. Men 
+like Schiaparel
+li watched the 
+red planet—it i
+s odd, by-the-b
+ye, that for co
+untless centuri
+es Mars has bee
+n the star of w
+ar—but failed t
+o interpret the
+ fluctuating ap
+pearances of th
+e markings they
+ mapped so well
+. All that time
+ the Martians m
+ust have been g
+etting ready. D
+uring the oppos
+ition of eighte
+en ninety four 
+a great light w
+as seen on the 
+illuminated par
+t of the disk, 
+first at the Li
+ck Observatory,
+ then by Perrot
+in of Nice, and
+ then by other 
+observers. Engl
+ish readers hea
+rd of it first 
+in the issue of
+ Nature dated A
+ugust 2. I am i
+nclined to thin
+k that this bla
+ze may have bee
+n the casting o
+f the huge gun,
+ in the vast pi
+t sunk into the
+ir planet, from
+ which their sh
+ots were fired 
+at us. Peculiar
+ markings, as y
+et unexplained,
+ were seen near
+ the site of th
+at outbreak dur
+ing the next tw
+o oppositions. 
+The storm burst
+ upon us six ye
+ars ago now. As
+ Mars approache
+d opposition, L
+avelle of Java 
+set the wires o
+f the astronomi
+cal exchange pa
+lpitating with 
+the amazing int
+elligence of a 
+huge outbreak o
+f incandescent 
+gas upon the pl
+anet. It had oc
+curred towards 
+midnight of the
+ twelfth; and t
+he spectroscope
+, to which he h
+ad at once reso
+rted, indicated
+ a mass of flam
+ing gas, chiefl
+y hydrogen, mov
+ing with an eno
+rmous velocity 
+towards this ea
+rth. This jet o
+f fire had beco
+me invisible ab
+out a quarter p
+ast twelve. He 
+compared it to 
+a colossal puff
+ of flame sudde
+nly and violent
+ly squirted out
+ of the planet,
+ “as flaming ga
+ses rushed out 
+of a gun.” A si
+ngularly approp
+riate phrase it
+ proved. Yet th
+e next day ther
+e was nothing o
+f this in the p
+apers except a 
+little note in 
+the Daily Teleg
+raph, and the w
+orld went in ig
+norance of one 
+of the gravest 
+dangers that ev
+er threatened t
+he human race. 
+I might not hav
+e heard of the 
+eruption at all
+ had I not met 
+Ogilvy, the wel
+l-known astrono
+mer, at Ottersh
+aw. He was imme
+nsely excited a
+t the news, and
+ in the excess 
+of his feelings
+ invited me up 
+to take a turn 
+with him that n
+ight in a scrut
+iny of the red 
+planet. In spit
+e of all that h
+as happened sin
+ce, I still rem
+ember that vigi
+l very distinct
+ly: the black a
+nd silent obser
+vatory, the sha
+dowed lantern t
+hrowing a feebl
+e glow upon the
+ floor in the c
+orner, the stea
+dy ticking of t
+he clockwork of
+ the telescope,
+ the little sli
+t in the roof—a
+n oblong profun
+dity with the s
+tardust streake
+d across it. Og
+ilvy moved abou
+t, invisible bu
+t audible. Look
+ing through the
+ telescope, one
+ saw a circle o
+f deep blue and
+ the little rou
+nd planet swimm
+ing in the fiel
+d. It seemed su
+ch a little thi
+ng, so bright a
+nd small and st
+ill, faintly ma
+rked with trans
+verse stripes, 
+and slightly fl
+attened from th
+e perfect round
+. But so little
+ it was, so sil
+very warm—a pin
+’s head of ligh
+t! It was as if
+ it quivered, b
+ut really this 
+was the telesco
+pe vibrating wi
+th the activity
+ of the clockwo
+rk that kept th
+e planet in vie
+w. As I watched
+, the planet se
+emed to grow la
+rger and smalle
+r and to advanc
+e and recede, b
+ut that was sim
+ply that my eye
+ was tired.    
+
+--------average fitness values--------793.8810854123244
+791.4148960115928
+789.9669117076946
+789.5508721852685
+788.708155654745
+787.2285036691627
+786.8011656494917
+787.3332865131597
+787.252970724499
+786.3322337023228
+785.2956130199498
+783.8488517620399
+782.8833303027473
+781.4555958294454
+780.4448731960051
+777.9684205737809
+775.4610970268808
+773.1504575755986
+769.3394363556424
+765.4470460667784
+762.9693647193606
+761.9651201554466
+759.3509373503823
+755.8588679556292
+748.8618732666254
+745.2668884944059
+745.4537511866203
+744.8614453664169
+745.2061536964216
+745.2355935510757
+745.510373149606
+--------best fitness values--------779.4665116981255
+777.9017888345492
+775.8016237085976
+771.1568482865607
+769.1890636269077
+770.1396788605875
+765.3468979311463
+773.306215763396
+772.3222716064676
+768.8179461018293
+768.9292629513367
+765.6097891266422
+762.3696421123151
+762.3696421123151
+761.2654366264433
+754.1261392151524
+754.1261392151524
+754.1261392151524
+753.8451000409132
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977
+743.340042000977

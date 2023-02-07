@@ -1,0 +1,385 @@
+Random seed: 3
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 1.0
+Mutation rate: 0.1
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Order Crossover 
+
+Best fitness value: 780.6467923459898
+Average population fitness value: 793.9245553426163
+
+Best fitness value: 775.1514938735169
+Average population fitness value: 789.7356625412082
+
+Best fitness value: 769.576601601059
+Average population fitness value: 785.1437939534364
+
+Best fitness value: 766.1236260459517
+Average population fitness value: 782.1950642055833
+
+Best fitness value: 756.225803446736
+Average population fitness value: 780.1599580252962
+
+Best fitness value: 763.9330584196713
+Average population fitness value: 778.0180720504545
+
+Best fitness value: 758.756934357647
+Average population fitness value: 775.6921685349963
+
+Best fitness value: 759.9125993993326
+Average population fitness value: 773.820421848326
+
+Best fitness value: 758.5129501546826
+Average population fitness value: 773.0028689825499
+
+Best fitness value: 754.0402485552622
+Average population fitness value: 769.9618017399324
+
+Best fitness value: 755.1504836149794
+Average population fitness value: 767.9782029912091
+
+Best fitness value: 751.1517184098534
+Average population fitness value: 766.9641886613363
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 762.706664326697
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 758.8078904184242
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 754.7660686950428
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 750.4588011508313
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.1296151822197
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.5437327069013
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.4473895196674
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.4461349946968
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.4024971531674
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.2889208197556
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.7677396012673
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.220869740875
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.6395247757443
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.0548020664044
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.3493108575415
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.4232675122355
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.32020398339
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.118535794039
+
+Best fitness value: 747.1386565771625
+Average population fitness value: 748.4966929235889
+
+Best fitness value: 747.1386565771625
+Solution chromosome: [13, 11, 2, 10, 14, 7, 5, 1, 9, 6, 0, 4, 3, 8, 12]
+s seThe Martian
+calcem to have 
+r deulated thei
+amazscent with 
+y—thing subtlet
+ticaeir mathema
+is el learning 
+r invidently fa
+ours excess of 
+e ca—and to hav
+heirrried out t
+ns w preparatio
+nighith a well-
+anim perfect un
+r inity. Had ou
+ermistruments p
+ migtted it, we
+n thht have see
+ troe gathering
+ck iuble far ba
+eentn the ninet
+Men h century. 
+arellike Schiap
+the li watched 
+it ired planet—
+he-bs odd, by-t
+r coye, that fo
+turiuntless cen
+ beees Mars has
+of wn the star 
+ed tar—but fail
+ theo interpret
+g ap fluctuatin
+f thpearances o
+theye markings 
+well mapped so 
+time. All that 
+ns m the Martia
+en gust have be
+y. Detting read
+pposuring the o
+ghteition of ei
+our en ninety f
+ht wa great lig
+the as seen on 
+ parilluminated
+sk, t of the di
+e Lifirst at th
+ory,ck Observat
+rrot then by Pe
+ andin of Nice,
+her  then by ot
+Englobservers. 
+ heaish readers
+rst rd of it fi
+e ofin the issu
+ed A Nature dat
+am iugust 2. I 
+thinnclined to 
+ blak that this
+ beeze may have
+ng on the casti
+gun,f the huge 
+t pi in the vas
+ thet sunk into
+fromir planet, 
+r sh which thei
+red ots were fi
+liarat us. Pecu
+as y markings, 
+ned,et unexplai
+near were seen 
+f th the site o
+ durat outbreak
+t twing the nex
+ns. o oppositio
+urstThe storm b
+x ye upon us si
+. Asars ago now
+ache Mars appro
+n, Ld oppositio
+ava avelle of J
+es oset the wir
+nomif the astro
+e pacal exchang
+ith lpitating w
+ intthe amazing
+f a elligence o
+ak ohuge outbre
+ent f incandesc
+e plgas upon th
+d ocanet. It ha
+rds curred towa
+ themidnight of
+nd t twelfth; a
+copehe spectros
+he h, to which 
+resoad at once 
+atedrted, indic
+flam a mass of 
+iefling gas, ch
+ movy hydrogen,
+ enoing with an
+ity rmous veloc
+s eatowards thi
+et orth. This j
+becof fire had 
+e abme invisibl
+er pout a quart
+ He ast twelve.
+ to compared it
+puffa colossal 
+udde of flame s
+lentnly and vio
+ outly squirted
+net, of the pla
+g ga “as flamin
+out ses rushed 
+A siof a gun.” 
+propngularly ap
+e itriate phras
+t th proved. Ye
+there next day 
+ng oe was nothi
+he pf this in t
+t a apers excep
+ in little note
+elegthe Daily T
+he wraph, and t
+n igorld went i
+one norance of 
+est of the grav
+t evdangers tha
+ed ter threaten
+ce. he human ra
+ havI might not
+the e heard of 
+ alleruption at
+met  had I not 
+ welOgilvy, the
+ronol-known ast
+ershmer, at Ott
+immeaw. He was 
+ed ansely excit
+ andt the news,
+ess  in the exc
+ingsof his feel
+ up  invited me
+urn to take a t
+at nwith him th
+crutight in a s
+red iny of the 
+spitplanet. In 
+at he of all th
+ sinas happened
+ remce, I still
+vigiember that 
+inctl very dist
+ck aly: the bla
+bsernd silent o
+ shavatory, the
+rn tdowed lante
+eeblhrowing a f
+ thee glow upon
+he c floor in t
+steaorner, the 
+of tdy ticking 
+k ofhe clockwor
+ope, the telesc
+ sli the little
+of—at in the ro
+ofunn oblong pr
+he sdity with t
+eaketardust str
+. Ogd across it
+abouilvy moved 
+e but, invisibl
+Lookt audible. 
+ theing through
+ one telescope,
+le o saw a circ
+ andf deep blue
+ rou the little
+wimmnd planet s
+fieling in the 
+d sud. It seeme
+ thich a little
+ht ang, so brig
+d stnd small an
+y maill, faintl
+ransrked with t
+es, verse strip
+y fland slightl
+m thattened fro
+ounde perfect r
+ttle. But so li
+ sil it was, so
+ pinvery warm—a
+ligh’s head of 
+s ift! It was a
+d, b it quivere
+his ut really t
+escowas the tel
+g wipe vibratin
+vityth the acti
+ckwo of the clo
+t thrk that kep
+ viee planet in
+chedw. As I wat
+t se, the plane
+w laemed to gro
+allerger and sm
+vancr and to ad
+e, be and reced
+ simut that was
+ eyeply that my
+     was tired.
+
+--------average fitness values--------793.9245553426163
+789.7356625412082
+785.1437939534364
+782.1950642055833
+780.1599580252962
+778.0180720504545
+775.6921685349963
+773.820421848326
+773.0028689825499
+769.9618017399324
+767.9782029912091
+766.9641886613363
+762.706664326697
+758.8078904184242
+754.7660686950428
+750.4588011508313
+748.1296151822197
+748.5437327069013
+748.4473895196674
+748.4461349946968
+748.4024971531674
+748.2889208197556
+748.7677396012673
+748.220869740875
+748.6395247757443
+748.0548020664044
+748.3493108575415
+748.4232675122355
+748.32020398339
+748.118535794039
+748.4966929235889
+--------best fitness values--------780.6467923459898
+775.1514938735169
+769.576601601059
+766.1236260459517
+756.225803446736
+763.9330584196713
+758.756934357647
+759.9125993993326
+758.5129501546826
+754.0402485552622
+755.1504836149794
+751.1517184098534
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625
+747.1386565771625

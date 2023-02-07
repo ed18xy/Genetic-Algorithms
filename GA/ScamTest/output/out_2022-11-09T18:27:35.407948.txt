@@ -1,0 +1,385 @@
+Random seed: 0
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.9
+Mutation rate: 0.0
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Order Crossover 
+
+Best fitness value: 782.3253805864869
+Average population fitness value: 794.0307867775596
+
+Best fitness value: 775.5255592187558
+Average population fitness value: 791.0784394658875
+
+Best fitness value: 773.3790756386749
+Average population fitness value: 787.4642557602998
+
+Best fitness value: 762.1070642595985
+Average population fitness value: 783.7997873433761
+
+Best fitness value: 760.9157471068568
+Average population fitness value: 779.8025825119264
+
+Best fitness value: 762.0562460902211
+Average population fitness value: 777.6078296218266
+
+Best fitness value: 760.9157471068568
+Average population fitness value: 775.4152770196594
+
+Best fitness value: 761.4978012942785
+Average population fitness value: 773.2229531041013
+
+Best fitness value: 760.9157471068568
+Average population fitness value: 770.9157438409634
+
+Best fitness value: 760.9157471068568
+Average population fitness value: 769.2268365415387
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 766.2603760607147
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 763.3196205339015
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 760.047587065102
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 755.9337979636482
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Average population fitness value: 754.5734845729507
+
+Best fitness value: 754.5734845729522
+Solution chromosome: [13, 11, 2, 10, 3, 8, 12, 0, 4, 14, 7, 5, 1, 9, 6]
+s seianrtThe Ma
+calcve haem to 
+r dehei tulated
+amazth wiscent 
+y—thletbting su
+ticaematheir ma
+is eng nil lear
+r in falyvident
+oursof s  exces
+e cahavo —and t
+heirt tourried 
+ns wtiora prepa
+nighll-weith a 
+anim unct perfe
+r in ouadity. H
+ermis pntstrume
+ mig wet,tted i
+n thseee ht hav
+ troingere gath
+ck i baaruble f
+eentnetnin the 
+Men y. urh cent
+areliapchlike S
+the ed chli wat
+it iet—anred pl
+he-by-t bs odd,
+r co foatye, th
+turicens untles
+ beehass es Mar
+of war stn the 
+ed tail far—but
+ theretrpo inte
+g aptinua fluct
+f ths ocepearan
+theygs ine mark
+wellso d  mappe
+timeat th. All 
+ns mtiaar the M
+en g beveust ha
+y. Dead retting
+ppose othuring 
+ghte eiofition 
+our y feten nin
+ht wligt a grea
+the on n as see
+ partednaillumi
+sk,  dihet of t
+e Li thatfirst 
+ory,vaterck Obs
+rrot Peby then 
+ andce,Niin of 
+her  otby then 
+Engls. erobserv
+ heaersadish re
+rst  fiitrd of 
+e ofssu iin the
+ed Adate  Natur
+am i I 2.ugust 
+thinto d ncline
+ blahis tk that
+ beeave hze may
+ng ostican the 
+gun,ge huf the 
+t pivase  in th
+ thento it sunk
+fromt, neir pla
+r shhei t which
+red  fireots we
+liarecu Pat us.
+as ys, ng marki
+ned,laixpet une
+nearen se were 
+f the oit the s
+ dureakbrat out
+t twnexe ing th
+ns. tiosio oppo
+urstm borThe st
+x ye sius upon 
+. Asnowo ars ag
+acheproap Mars 
+n, Ltiosid oppo
+ava f J oavelle
+es owire set th
+nomitroasf the 
+e paangchcal ex
+ith g winlpitat
+ intingazthe am
+f a e oncellige
+ak obreuthuge o
+ent escndf inca
+e pl thongas up
+d oc haItanet. 
+rds owa tcurred
+ the ofhtmidnig
+nd t; ath twelf
+coperoscthe spe
+he hch hi, to w
+resoce onad at 
+ateddicinrted, 
+flamof s  a mas
+iefl chs,ing ga
+ moven,ogy hydr
+ eno anthing wi
+ity locvermous 
+s eathis toward
+et os jhirth. T
+becoad  hf fire
+e abiblisme inv
+er partquout a 
+ He ve.elast tw
+ to  itedcompar
+puffal ssa colo
+uddee sam of fl
+lentviod nly an
+ outtedirly squ
+net,plae  of th
+g gaminla “as f
+out ed shses ru
+A si.” unof a g
+prop aplyngular
+e itrasphriate 
+t th Yed. prove
+theray  de next
+ng othinoe was 
+he pn t if this
+t a cepexapers 
+ in ote nlittle
+elegy Tilthe Da
+he wd tanraph, 
+n igt ienorld w
+one of e noranc
+est rav gof the
+t evthas danger
+ed tteneaer thr
+ce.  raanhe hum
+ havnott I migh
+the of d e hear
+ all atonerupti
+met ot  n had I
+ welthe, Ogilvy
+ronoastn l-know
+ershOttt mer, a
+immeas  waw. He
+ed acitexnsely 
+ andws,net the 
+ess exce  in th
+ingseel fof his
+ up  meed invit
+urn a te to tak
+at n thimwith h
+cruta sn ight i
+red he  tiny of
+spitIn . planet
+at h thlle of a
+ sinnedpeas hap
+ remillstce, I 
+vigiat thember 
+inctist dl very
+ck ablae ly: th
+bsert oennd sil
+ shathe, vatory
+rn tnteladowed 
+eebla fg hrowin
+ thepon ue glow
+he cn t i floor
+steahe  torner,
+of tng kidy tic
+k ofworckhe clo
+ope,escel the t
+ slitleit the l
+of—a rohet in t
+ofun prngn oblo
+he sh titdity w
+eakestrt tardus
+. Og itssd acro
+aboued ovilvy m
+e buiblist, inv
+Looke. blt audi
+ theughroing th
+ onepe,co teles
+le oirc c saw a
+ andlue bf deep
+ routleit the l
+wimmt snend pla
+fielhe  ting in
+d suemesed. It 
+ thitleitch a l
+ht arig bng, so
+d st anllnd sma
+y mantlaiill, f
+ransh titrked w
+es, ripstverse 
+y flhtligand sl
+m thfrod attene
+oundt rece perf
+ttle liso. But 
+ sil sos, it wa
+ pinm—aarvery w
+lighof d ’s hea
+s ifs awat! It 
+d, bereiv it qu
+his y tllut rea
+escotele was th
+g witinrape vib
+vitycti ath the
+ckwocloe  of th
+t thkept rk tha
+ vie inete plan
+chedwatI w. As 
+t seanepl, the 
+w lagroo emed t
+alle smndrger a
+vanc adtor and 
+e, bcedree and 
+ simwast ut tha
+ eye myatply th
+    ed.ir was t
+
+--------average fitness values--------794.0307867775596
+791.0784394658875
+787.4642557602998
+783.7997873433761
+779.8025825119264
+777.6078296218266
+775.4152770196594
+773.2229531041013
+770.9157438409634
+769.2268365415387
+766.2603760607147
+763.3196205339015
+760.047587065102
+755.9337979636482
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+754.5734845729507
+--------best fitness values--------782.3253805864869
+775.5255592187558
+773.3790756386749
+762.1070642595985
+760.9157471068568
+762.0562460902211
+760.9157471068568
+761.4978012942785
+760.9157471068568
+760.9157471068568
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522
+754.5734845729522

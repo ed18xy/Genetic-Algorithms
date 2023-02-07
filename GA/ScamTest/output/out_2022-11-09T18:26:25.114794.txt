@@ -1,0 +1,419 @@
+Random seed: 1
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 1.0
+Mutation rate: 0.1
+Tournament: k = 5
+Input file: ScamTest/document2-shredded.txt
+Elitism members: n = 2
+Crossover type: Order Crossover 
+
+Best fitness value: 902.3550426111788
+Average population fitness value: 921.5195808679633
+
+Best fitness value: 898.1943335815679
+Average population fitness value: 917.3153877074909
+
+Best fitness value: 898.5445666327507
+Average population fitness value: 912.4211174791745
+
+Best fitness value: 890.4453293426949
+Average population fitness value: 908.9516294773088
+
+Best fitness value: 888.4033648525968
+Average population fitness value: 905.4568990284539
+
+Best fitness value: 887.0292372666722
+Average population fitness value: 901.3782107708419
+
+Best fitness value: 884.8531780074636
+Average population fitness value: 898.5821245349555
+
+Best fitness value: 882.7797544277506
+Average population fitness value: 896.2988690595713
+
+Best fitness value: 881.5148752166577
+Average population fitness value: 894.9091465756514
+
+Best fitness value: 879.6275064415961
+Average population fitness value: 893.9180638409962
+
+Best fitness value: 879.2687765557167
+Average population fitness value: 891.9216452028492
+
+Best fitness value: 879.3139789787741
+Average population fitness value: 889.8788682757117
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 888.0718578569038
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 887.001884560445
+
+Best fitness value: 873.7211864549598
+Average population fitness value: 885.5510631448886
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 883.3099102836475
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 882.0422381146338
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.0140252479132
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.2609968815807
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 879.7902267661168
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.0396003810866
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.0994717841585
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.6777409064812
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 879.8460755581992
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.3491821198969
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.1221613816223
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 879.7159955695955
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.2612908302588
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 879.9766592563061
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.5445914887216
+
+Best fitness value: 878.7699926145185
+Average population fitness value: 880.074840295406
+
+Best fitness value: 878.7699926145185
+Solution chromosome: [1, 5, 7, 2, 6, 9, 0, 12, 3, 4, 13, 8, 11, 10, 14]
+lck Ho SherloTo
+as alws she ime
+Iman.  the woys
+edom have sel h
+nentiod him mar
+ r anyer unde h
+ e. Inher namot
+cshe es eyes hi
+dd prepses anli
+hthe winates om
+.r sexe of heol
+aot tht was n I
+e any he feltt 
+ in totion akmo
+ Ireneve for lo
+tl emoler. AlAd
+  thatns, andio
+lculare partion
+ebhorr were ay,
+, cold to hisnt
+dbut arecise  p
+ealancrably bmi
+,e wasmind. Hd 
+et, th take i I
+rfect ost per m
+band osoning ea
+eachinrving mse
+d worlhat the t
+ , butas seen h
+wr he  a loveas
+e placld haveou
+  in ahimselfd 
+.itionlse posfa
+e spoke never H
+ ofterf the s o
+  savessions,pa
+dbe anth a giwi
+  They sneer. a
+ rablere admiwe
+ r theings foth
+lexcelserver ob
+grawint for den
+  fromhe veil t
+aives n’s motme
+ts. Bu actionnd
+etrainor the  f
+ar to reasoned 
+u intrit suchdm
+ o hisons intsi
+nate an delicow
+tadjusfinely d 
+ ament tempered
+ctrodus to inwa
+gactina distre 
+mhich actor w f
+ow a dht throig
+iall ht upon ub
+tresulmental s 
+en a s Grit is.
+mnstruitive ins
+k cract, or aen
+ f hisn one o i
+ powern high-ow
+nould nses, wle
+te dis be morot
+san a bing thur
+ition ong emotr
+he suca naturn 
+eAnd ys his.  a
+tas buthere wt 
+hn to ne woma o
+ohat w, and tim
+the lan was tma
+ dler,Irene Ae 
+ s and dubiouof
+eble mestionaqu
+ead sery. I hmo
+lof Holittle n 
+ y. Mys latelme
+rhad drriage ma
+faway ted us if
+.otherm each ro
+tompley own c M
+nss, ahappinee 
+te-centhe homd 
+wests d interre
+r up ach risehi
+hman wnd the ou
+hinds first fo 
+oster self maim
+b estahis ownf 
+  wereshment,li
+at to fficiensu
+t my aorb allbs
+ whilention, te
+aho lolmes, wHo
+my fored everth
+tty wif socie o
+hle Bohis whoh 
+ml, reian souem
+oour lned in ai
+r Bakeings indg
+dburietreet,  S
+ s oldmong hi a
+ed altoks, anbo
+erom wating frn
+wk bet to weeek
+dne ann cocaiee
+ , thembition a
+ts of owsinesdr
+hand t drug, he
+yenergfierce e 
+ewn kef his o o
+a He wnature.n 
+eas evstill, s 
+a attr deeplyr,
+uhe sted by tct
+nme, a of cridy
+ d hisoccupied 
+iacultmense fim
+dtraor and exes
+fers oary powin
+nion ibservat o
+ g outollowin f
+nes, aose cluth
+tg up clearind 
+ eriesse mystho
+  beenich hadwh
+o as handonedab
+o the less bype
+.oliceicial pff
+te to rom tim F
+mrd soe I heaim
+tccounvague ae 
+:oingsf his d o
+summonf his s o
+ta in o Odess t
+ f the case ohe
+,urderepoff mTr
+nlearif his c o
+nhe siup of tg 
+ogedy lar tragu
+ insonthe Atkf 
+iat Trothers br
+f and omalee,nc
+m the ally ofin
+eich hsion whis
+hmplisad acco h
+licate so deled
+ucessfand sucy 
+ihe rey for tll
+fily oing famgn
+n Beyoolland. H
+oigns these sd 
+,ivityhis actf 
+h whicowever, h
+e shar merely I
+ l thewith ald 
+ f theaders ore
+ ss, Iily preda
+ le ofew littkn
+n frie formermy
+npanioand comd 
+ ht itOne nig. 
+ne twes on thwa
+,Marcheth of ti
+tas re888—I w 1
+jom a ning frur
+t a parney toou
+d I hant (forie
+trned ow retu n
+cracticivil po 
+ymy wa, when e)
+hhrouged me t l
+ reet.aker St B
+eed th I passAs
+eemberell-rem w
+mhich door, wd 
+as be t alwayus
+y in mociatedss
+wh my ind wit m
+hd witing, anoo
+d incihe dark t
+uhe Stts of ten
+ rlet, in Scady
+ized wwas seiI 
+r desi a keenth
+sHolmeto see e 
+ nd togain, a a
+she waow how kn
+ g hismployin e
+pnary traordiex
+ms rooers. Hiow
+nilliawere brs 
+eand, y lit, tl
+dlooken as I ve
+ w hisp, I sa u
+gre fill, spata
+ twicee pass ur
+o silh a darkin
+tinst tte agaue
+a He w blind.he
+othe rpacing s 
+gy, ea swiftlom
+ h hisly, witer
+  uponad sunkhe
+h and s chesthi
+eclasp hands is
+Thim. behind d 
+  knewme, whoo 
+  moods everyhi
+ , hisd habitan
+aand mtitude at
+r theier toldnn
+ y. Hewn stor o
+ark ags at wowa
+ed ris. He hain
+rhis dout of n 
+ad dre-createug
+ s hot and wams
+ scenton the up
+oew pr some nof
+hang tem. I rbl
+ d wasbell ane 
+eto thown up sh
+ whichhamber  c
+erly bd formeha
+ot my  in paren
+ anner. His mwn
+vffusis not ewa
+adom w It sele.
+g was  but hes;
+tink, d, I thla
+  Withsee me.o 
+sword rdly a ha
+ht witken, bupo
+  eye, kindly a
+ me to waved he
+hir, t armchaan
+ s hisw acrosre
+,igarsse of cca
+ catednd indi a
+acase spirit a 
+igene  a gas nd
+Tner. the corn 
+eood bn he sthe
+afire re the fo
+v me o lookednd
+u sing in hiser
+ispectr introla
+ n.    fashiove
+
+--------average fitness values--------921.5195808679633
+917.3153877074909
+912.4211174791745
+908.9516294773088
+905.4568990284539
+901.3782107708419
+898.5821245349555
+896.2988690595713
+894.9091465756514
+893.9180638409962
+891.9216452028492
+889.8788682757117
+888.0718578569038
+887.001884560445
+885.5510631448886
+883.3099102836475
+882.0422381146338
+880.0140252479132
+880.2609968815807
+879.7902267661168
+880.0396003810866
+880.0994717841585
+880.6777409064812
+879.8460755581992
+880.3491821198969
+880.1221613816223
+879.7159955695955
+880.2612908302588
+879.9766592563061
+880.5445914887216
+880.074840295406
+--------best fitness values--------902.3550426111788
+898.1943335815679
+898.5445666327507
+890.4453293426949
+888.4033648525968
+887.0292372666722
+884.8531780074636
+882.7797544277506
+881.5148752166577
+879.6275064415961
+879.2687765557167
+879.3139789787741
+878.7699926145185
+878.7699926145185
+873.7211864549598
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185
+878.7699926145185

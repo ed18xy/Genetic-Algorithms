@@ -1,0 +1,385 @@
+Random seed: 1
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.9
+Mutation rate: 0.0
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Order Crossover 
+
+Best fitness value: 779.3528981126062
+Average population fitness value: 793.3598970318687
+
+Best fitness value: 776.3884292895314
+Average population fitness value: 789.2458564821618
+
+Best fitness value: 770.5466819004437
+Average population fitness value: 784.7121315249835
+
+Best fitness value: 767.4626973036494
+Average population fitness value: 780.9378419018515
+
+Best fitness value: 763.6240780056162
+Average population fitness value: 778.3548739236835
+
+Best fitness value: 758.6173691807743
+Average population fitness value: 774.8086719100612
+
+Best fitness value: 754.8774458261965
+Average population fitness value: 772.4083017215776
+
+Best fitness value: 751.3193477439416
+Average population fitness value: 769.5702129124601
+
+Best fitness value: 751.3193477439416
+Average population fitness value: 767.6759368138069
+
+Best fitness value: 751.3193477439416
+Average population fitness value: 763.4050248725379
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 758.6879959921888
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 753.864223458426
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 752.8809141478762
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 749.9042165162796
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Average population fitness value: 747.8804111835778
+
+Best fitness value: 747.8804111835777
+Solution chromosome: [4, 3, 8, 12, 13, 11, 2, 10, 14, 7, 5, 1, 9, 6, 0]
+tians seThe Mar
+ave calcem to h
+their deulated 
+ith amazscent w
+tlety—thing sub
+hematicaeir mat
+ing is el learn
+y far invidentl
+ of ours excess
+ have ca—and to
+ut theirrried o
+ations w prepar
+ell-nighith a w
+t unanim perfec
+d our inity. Ha
+ts permistrumen
+, we migtted it
+ seen thht have
+ring troe gathe
+r back iuble fa
+ineteentn the n
+ry. Men h centu
+hiaparellike Sc
+hed the li watc
+net—it ired pla
+by-the-bs odd, 
+t for coye, tha
+ centuriuntless
+ has beees Mars
+tar of wn the s
+failed tar—but 
+pret theo inter
+ating ap fluctu
+es of thpearanc
+ngs theye marki
+ so well mapped
+hat time. All t
+rtians m the Ma
+e been gust hav
+ready. Detting 
+he opposuring t
+f eighteition o
+ty four en nine
+ light wa great
+ on the as seen
+ated parillumin
+e disk, t of th
+t the Lifirst a
+rvatory,ck Obse
+y Perrot then b
+ice, andin of N
+y other  then b
+rs. Englobserve
+ders heaish rea
+t first rd of i
+issue ofin the 
+ dated A Nature
+. I am iugust 2
+ to thinnclined
+this blak that 
+have beeze may 
+asting on the c
+uge gun,f the h
+ vast pi in the
+into thet sunk 
+et, fromir plan
+their sh which 
+e fired ots wer
+Peculiarat us. 
+gs, as y markin
+plained,et unex
+een near were s
+te of th the si
+reak durat outb
+ next twing the
+itions. o oppos
+rm burstThe sto
+s six ye upon u
+ now. Asars ago
+pproache Mars a
+ition, Ld oppos
+of Java avelle 
+ wires oset the
+stronomif the a
+hange pacal exc
+ng with lpitati
+zing intthe ama
+ce of a elligen
+tbreak ohuge ou
+descent f incan
+n the plgas upo
+t had ocanet. I
+towards curred 
+t of themidnigh
+h; and t twelft
+troscopehe spec
+ich he h, to wh
+nce resoad at o
+ndicatedrted, i
+ of flam a mass
+, chiefling gas
+gen, movy hydro
+h an enoing wit
+elocity rmous v
+ this eatowards
+is jet orth. Th
+had becof fire 
+sible abme invi
+uarter pout a q
+lve. He ast twe
+d it to compare
+sal puffa colos
+me sudde of fla
+ violentnly and
+rted outly squi
+ planet, of the
+aming ga “as fl
+hed out ses rus
+n.” A siof a gu
+y appropngularl
+hrase itriate p
+. Yet th proved
+day there next 
+othing oe was n
+in the pf this 
+xcept a apers e
+note in little 
+ly Telegthe Dai
+nd the wraph, a
+nt in igorld we
+ of one norance
+gravest of the 
+ that evdangers
+atened ter thre
+n race. he huma
+ not havI might
+ of the e heard
+n at alleruptio
+not met  had I 
+ the welOgilvy,
+ astronol-known
+ Ottershmer, at
+was immeaw. He 
+xcited ansely e
+ews, andt the n
+ excess  in the
+feelingsof his 
+d me up  invite
+ a turn to take
+m that nwith hi
+ a scrutight in
+the red iny of 
+ In spitplanet.
+l that he of al
+ened sinas happ
+till remce, I s
+hat vigiember t
+distinctl very 
+ black aly: the
+nt obsernd sile
+ the shavatory,
+antern tdowed l
+ a feeblhrowing
+upon thee glow 
+in the c floor 
+the steaorner, 
+ing of tdy tick
+kwork ofhe cloc
+lescope, the te
+ttle sli the li
+e roof—at in th
+g profunn oblon
+th the sdity wi
+ streaketardust
+s it. Ogd acros
+ved abouilvy mo
+sible but, invi
+le. Lookt audib
+ough theing thr
+ope, one telesc
+circle o saw a 
+blue andf deep 
+ttle rou the li
+et swimmnd plan
+the fieling in 
+eemed sud. It s
+ttle thich a li
+bright ang, so 
+l and stnd smal
+intly maill, fa
+th transrked wi
+tripes, verse s
+ghtly fland sli
+ from thattened
+ct rounde perfe
+o little. But s
+, so sil it was
+rm—a pinvery wa
+ of ligh’s head
+as as ift! It w
+vered, b it qui
+ly this ut real
+ telescowas the
+ating wipe vibr
+activityth the 
+ clockwo of the
+ kept thrk that
+t in viee plane
+ watchedw. As I
+lanet se, the p
+ grow laemed to
+d smallerger an
+o advancr and t
+ecede, be and r
+ was simut that
+t my eyeply tha
+red.     was ti
+
+--------average fitness values--------793.3598970318687
+789.2458564821618
+784.7121315249835
+780.9378419018515
+778.3548739236835
+774.8086719100612
+772.4083017215776
+769.5702129124601
+767.6759368138069
+763.4050248725379
+758.6879959921888
+753.864223458426
+752.8809141478762
+749.9042165162796
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+747.8804111835778
+--------best fitness values--------779.3528981126062
+776.3884292895314
+770.5466819004437
+767.4626973036494
+763.6240780056162
+758.6173691807743
+754.8774458261965
+751.3193477439416
+751.3193477439416
+751.3193477439416
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777
+747.8804111835777

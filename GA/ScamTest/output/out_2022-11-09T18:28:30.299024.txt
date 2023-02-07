@@ -1,0 +1,385 @@
+Random seed: 1
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.9
+Mutation rate: 0.1
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Order Crossover 
+
+Best fitness value: 779.3528981126062
+Average population fitness value: 793.3598970318687
+
+Best fitness value: 776.3884292895314
+Average population fitness value: 789.2354904944664
+
+Best fitness value: 769.4064135234416
+Average population fitness value: 784.9946097820093
+
+Best fitness value: 764.1454970915555
+Average population fitness value: 782.2387607381872
+
+Best fitness value: 762.7150744818597
+Average population fitness value: 778.7091899878567
+
+Best fitness value: 757.8823070121412
+Average population fitness value: 776.447764525043
+
+Best fitness value: 757.8823070121412
+Average population fitness value: 772.5910690855452
+
+Best fitness value: 757.8823070121412
+Average population fitness value: 770.9934556525534
+
+Best fitness value: 754.7473220517574
+Average population fitness value: 767.9003655355815
+
+Best fitness value: 751.3193477439416
+Average population fitness value: 766.1205112709256
+
+Best fitness value: 747.878071080825
+Average population fitness value: 764.6527025364138
+
+Best fitness value: 747.878071080825
+Average population fitness value: 763.3603567199928
+
+Best fitness value: 747.878071080825
+Average population fitness value: 760.3364577437154
+
+Best fitness value: 747.878071080825
+Average population fitness value: 754.825745728184
+
+Best fitness value: 747.878071080825
+Average population fitness value: 750.8572324033578
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.1616604703626
+
+Best fitness value: 747.878071080825
+Average population fitness value: 748.5052955183903
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.4156617961568
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.093312825146
+
+Best fitness value: 747.878071080825
+Average population fitness value: 748.7849711647482
+
+Best fitness value: 747.878071080825
+Average population fitness value: 748.9094809779439
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.4775446190948
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.2156701137739
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.3496335373387
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.4230618010322
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.3729007944836
+
+Best fitness value: 747.878071080825
+Average population fitness value: 748.8148617716226
+
+Best fitness value: 747.878071080825
+Average population fitness value: 748.8603579397619
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.3057194486977
+
+Best fitness value: 747.878071080825
+Average population fitness value: 749.435821652679
+
+Best fitness value: 747.878071080825
+Average population fitness value: 748.9079200216866
+
+Best fitness value: 747.878071080825
+Solution chromosome: [0, 4, 3, 8, 12, 13, 11, 2, 10, 14, 7, 5, 1, 9, 6]
+rtians seThe Ma
+have calcem to 
+ their deulated
+with amazscent 
+btlety—thing su
+thematicaeir ma
+ning is el lear
+ly far invident
+s of ours exces
+o have ca—and t
+out theirrried 
+rations w prepa
+well-nighith a 
+ct unanim perfe
+ad our inity. H
+nts permistrume
+t, we migtted i
+e seen thht hav
+ering troe gath
+ar back iuble f
+nineteentn the 
+ury. Men h cent
+chiaparellike S
+ched the li wat
+anet—it ired pl
+ by-the-bs odd,
+at for coye, th
+s centuriuntles
+s has beees Mar
+star of wn the 
+ failed tar—but
+rpret theo inte
+uating ap fluct
+ces of thpearan
+ings theye mark
+d so well mappe
+that time. All 
+artians m the M
+ve been gust ha
+ ready. Detting
+the opposuring 
+of eighteition 
+ety four en nin
+t light wa grea
+n on the as see
+nated parillumi
+he disk, t of t
+at the Lifirst 
+ervatory,ck Obs
+by Perrot then 
+Nice, andin of 
+by other  then 
+ers. Englobserv
+aders heaish re
+it first rd of 
+ issue ofin the
+e dated A Natur
+2. I am iugust 
+d to thinncline
+ this blak that
+ have beeze may
+casting on the 
+huge gun,f the 
+e vast pi in th
+ into thet sunk
+net, fromir pla
+ their sh which
+re fired ots we
+ Peculiarat us.
+ngs, as y marki
+xplained,et une
+seen near were 
+ite of th the s
+break durat out
+e next twing th
+sitions. o oppo
+orm burstThe st
+us six ye upon 
+o now. Asars ag
+approache Mars 
+sition, Ld oppo
+ of Java avelle
+e wires oset th
+astronomif the 
+change pacal ex
+ing with lpitat
+azing intthe am
+nce of a ellige
+utbreak ohuge o
+ndescent f inca
+on the plgas up
+It had ocanet. 
+ towards curred
+ht of themidnig
+th; and t twelf
+ctroscopehe spe
+hich he h, to w
+once resoad at 
+indicatedrted, 
+s of flam a mas
+s, chiefling ga
+ogen, movy hydr
+th an enoing wi
+velocity rmous 
+s this eatoward
+his jet orth. T
+ had becof fire
+isible abme inv
+quarter pout a 
+elve. He ast tw
+ed it to compar
+ssal puffa colo
+ame sudde of fl
+d violentnly an
+irted outly squ
+e planet, of th
+laming ga “as f
+shed out ses ru
+un.” A siof a g
+ly appropngular
+phrase itriate 
+d. Yet th prove
+ day there next
+nothing oe was 
+ in the pf this
+except a apers 
+ note in little
+ily Telegthe Da
+and the wraph, 
+ent in igorld w
+e of one noranc
+ gravest of the
+s that evdanger
+eatened ter thr
+an race. he hum
+t not havI migh
+d of the e hear
+on at allerupti
+ not met  had I
+, the welOgilvy
+n astronol-know
+t Ottershmer, a
+ was immeaw. He
+excited ansely 
+news, andt the 
+e excess  in th
+ feelingsof his
+ed me up  invit
+e a turn to tak
+im that nwith h
+n a scrutight i
+ the red iny of
+. In spitplanet
+ll that he of a
+pened sinas hap
+still remce, I 
+that vigiember 
+ distinctl very
+e black aly: th
+ent obsernd sil
+, the shavatory
+lantern tdowed 
+g a feeblhrowin
+ upon thee glow
+ in the c floor
+ the steaorner,
+king of tdy tic
+ckwork ofhe clo
+elescope, the t
+ittle sli the l
+he roof—at in t
+ng profunn oblo
+ith the sdity w
+t streaketardus
+ss it. Ogd acro
+oved abouilvy m
+isible but, inv
+ble. Lookt audi
+rough theing th
+cope, one teles
+ circle o saw a
+ blue andf deep
+ittle rou the l
+net swimmnd pla
+ the fieling in
+seemed sud. It 
+ittle thich a l
+ bright ang, so
+ll and stnd sma
+aintly maill, f
+ith transrked w
+stripes, verse 
+ightly fland sl
+d from thattene
+ect rounde perf
+so little. But 
+s, so sil it wa
+arm—a pinvery w
+d of ligh’s hea
+was as ift! It 
+ivered, b it qu
+lly this ut rea
+e telescowas th
+rating wipe vib
+ activityth the
+e clockwo of th
+t kept thrk tha
+et in viee plan
+I watchedw. As 
+planet se, the 
+o grow laemed t
+nd smallerger a
+to advancr and 
+recede, be and 
+t was simut tha
+at my eyeply th
+ired.     was t
+
+--------average fitness values--------793.3598970318687
+789.2354904944664
+784.9946097820093
+782.2387607381872
+778.7091899878567
+776.447764525043
+772.5910690855452
+770.9934556525534
+767.9003655355815
+766.1205112709256
+764.6527025364138
+763.3603567199928
+760.3364577437154
+754.825745728184
+750.8572324033578
+749.1616604703626
+748.5052955183903
+749.4156617961568
+749.093312825146
+748.7849711647482
+748.9094809779439
+749.4775446190948
+749.2156701137739
+749.3496335373387
+749.4230618010322
+749.3729007944836
+748.8148617716226
+748.8603579397619
+749.3057194486977
+749.435821652679
+748.9079200216866
+--------best fitness values--------779.3528981126062
+776.3884292895314
+769.4064135234416
+764.1454970915555
+762.7150744818597
+757.8823070121412
+757.8823070121412
+757.8823070121412
+754.7473220517574
+751.3193477439416
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825
+747.878071080825

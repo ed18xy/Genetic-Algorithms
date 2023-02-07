@@ -1,0 +1,385 @@
+Random seed: 3
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.9
+Mutation rate: 0.1
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Uniform Order Crossover 
+
+Best fitness value: 780.6467923459898
+Average population fitness value: 793.9245553426163
+
+Best fitness value: 773.1463195000082
+Average population fitness value: 791.2716954796326
+
+Best fitness value: 773.1463195000082
+Average population fitness value: 789.4849981914681
+
+Best fitness value: 770.2942774280374
+Average population fitness value: 788.1366093882822
+
+Best fitness value: 770.2942774280374
+Average population fitness value: 787.8230664041376
+
+Best fitness value: 770.2942774280374
+Average population fitness value: 786.4975212907724
+
+Best fitness value: 767.4702396150179
+Average population fitness value: 785.1003675459299
+
+Best fitness value: 767.4702396150179
+Average population fitness value: 783.8073026081379
+
+Best fitness value: 767.1938835622834
+Average population fitness value: 783.3431054843072
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 781.6215975401601
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 779.0381961693035
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 777.1404605918392
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 775.8004529157662
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 773.1902300504164
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 769.3478490869848
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 763.7270380074413
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.7078314617419
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.0365524258007
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.6226641189028
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 761.8825559734709
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 761.9465145094597
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 761.9802600287537
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.1826637997655
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.2956994671091
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 761.887442075916
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.3667296464641
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 761.7879938184909
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.1904186243613
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.0975615735238
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 761.6875984210903
+
+Best fitness value: 761.1266236016487
+Average population fitness value: 762.0286923533704
+
+Best fitness value: 761.1266236016487
+Solution chromosome: [14, 7, 12, 9, 6, 0, 4, 3, 8, 13, 11, 5, 1, 2, 10]
+ThnMartias e se
+em o haveca tlc
+ulied ther atde
+sc t withamenaz
+intsubtley—g th
+eiamathemtir ca
+l  arningisle e
+viantly fr dein
+ e ess ofouxcrs
+—av to hae ndca
+rrtd out heieir
+ poparatinsre w
+it-a wellnih gh
+ pnfect uanerim
+itu Had or y.in
+stpments errumi
+tte it, w medig
+hteave sen  hth
+e gtherin tgaro
+uba far bckle i
+n te nineeethnt
+h  ntury.Mecen 
+lip Schiaarkeel
+li atchedth we 
+re—planetitd  i
+s td, by-heod-b
+yeothat fr , co
+unness cetutlri
+essars ha b Mee
+n  e starofth w
+arlut faied—b t
+o tterpre tinhe
+ fnctuatig luap
+peoances f arth
+e  rkingsthmaey
+ m ped soweapll
+.  l thattiAlme
+ ta Martinshe m
+usehave bent  g
+etdng reay.ti D
+urog the ppinos
+itin of eghiote
+enfinety ou nr 
+a geat lihtgr w
+as een onth se 
+ildminate pluar
+t i the dskof, 
+fiht at te rsLi
+cktbservaor Oy,
+ ten by Prrheot
+in,f Nice a ond
+ ttn by oheher 
+ob rvers.Ensegl
+issreader hh ea
+rdif it frs ot 
+inuhe isse  tof
+ Nture daedat A
+ug t 2. Iamus i
+nc ned tothliin
+k sat thi bthla
+zeeay hav b mee
+n ie castngth o
+f  e hugeguthn,
+ isthe vat n pi
+t onk int tsuhe
+ir lanet,fr pom
+ wich ther hish
+otiwere fres d 
+atus. Pecli uar
+ m kings,asar y
+etinexplane ud,
+ w e seenneerar
+ to site f heth
+atkutbrea d our
+inxthe net g tw
+o opositinsop. 
+Thbstorm ure st
+ uin us sx poye
+arwago no. s As
+ Mos appracarhe
+d opositin,op L
+avJle of avela 
+serthe wiest  o
+f oe astrnothmi
+cagexchane l pa
+lpwating itith 
+thgamazin ie nt
+elogence f lia 
+hue outbrakge o
+f ccandesenint 
+gahupon te s pl
+ana. It hd etoc
+cuaed towrdrrs 
+mifight o tdnhe
+ talfth; ndwe t
+hespectroco spe
+,   whichheto h
+ad t oncere aso
+rtc, indiateded
+ a ass offl mam
+inhgas, cieg fl
+y ,drogen mhyov
+innwith a eg no
+rmcs veloitouy 
+toirds ths waea
+rtj This eth. o
+f  re hadbefico
+melnvisibe  iab
+outa quarert  p
+as.twelve Ht e 
+cotared i tmpo 
+a  lossalpucoff
+ osflame udf de
+nloand viley nt
+lydquirte o sut
+ oathe plnef t,
+ “n flamig asga
+se rushedous t 
+of  gun.”A  asi
+ngparly aprulop
+rise phrae atit
+ peved. Yt roth
+e  xt daythneer
+e is nothngwa o
+f tis in heth p
+apps excet era 
+liele not ittn 
+thTDaily ele eg
+rat, and heph w
+ori went n ldig
+no nce ofonrae 
+ofvhe graes tt 
+daaers tht ngev
+ernhreateed t t
+heauman rce h. 
+I tght no hmiav
+e  ard ofthhee 
+erttion a aupll
+ h  I notmeadt 
+Ogevy, th wilel
+l-town asroknno
+met at Oterr,sh
+aw He wasim. me
+nsty exciedel a
+t ,e news athnd
+ icthe exesn s 
+oflis feein hgs
+ ieited m unvp 
+totake a ur tn 
+wih him tatth n
+igs in a crhtut
+in of therey d 
+pl et. Inspanit
+e h all tatof h
+asdappene s hin
+celI stil r, em
+em r thatvibegi
+l try disinvect
+lyathe blck:  a
+ndoilent bs ser
+vaery, th stoha
+doed lantrnwe t
+hrfing a eeowbl
+e now upo tglhe
+ ftor in helo c
+or r, thestneea
+dy ickingof t t
+herlockwok  cof
+ tc telesophee,
+ te littl sheli
+t o the rofin—a
+n rlong pofobun
+dit with hety s
+tarust steardke
+d tross i. acOg
+il  movedabvyou
+t,lnvisibe  ibu
+t  dible.Loauok
+inhthroug tg he
+ t,escope oelne
+ sc a cirleaw o
+f eep blu adend
+ te littl rheou
+ndslanet wi pmm
+in in thefig el
+d.et seemd  Isu
+che littl t ahi
+nggso briht,  a
+ndnmall ad  sst
+ill fainty l,ma
+rkt with raedns
+vepe striesrs, 
+anlslighty d fl
+atoned frm teth
+e rrfect oupend
+. it so lttBule
+ iowas, s st il
+vea warm— pryin
+’s ead ofli hgh
+t!at was s  Iif
+ iequiverd,t  b
+utteally hi rs 
+walthe teess co
+penibratig  vwi
+thihe actvi tty
+ oothe clckf wo
+rkphat ket  tth
+e nanet i vplie
+w.ts I wach Aed
+, ee plant thse
+emo to grw edla
+rgm and salerle
+r dd to avaannc
+e dd recee,an b
+utshat wa s tim
+plythat m ey ye
+ w. tired  as  
+
+--------average fitness values--------793.9245553426163
+791.2716954796326
+789.4849981914681
+788.1366093882822
+787.8230664041376
+786.4975212907724
+785.1003675459299
+783.8073026081379
+783.3431054843072
+781.6215975401601
+779.0381961693035
+777.1404605918392
+775.8004529157662
+773.1902300504164
+769.3478490869848
+763.7270380074413
+762.7078314617419
+762.0365524258007
+762.6226641189028
+761.8825559734709
+761.9465145094597
+761.9802600287537
+762.1826637997655
+762.2956994671091
+761.887442075916
+762.3667296464641
+761.7879938184909
+762.1904186243613
+762.0975615735238
+761.6875984210903
+762.0286923533704
+--------best fitness values--------780.6467923459898
+773.1463195000082
+773.1463195000082
+770.2942774280374
+770.2942774280374
+770.2942774280374
+767.4702396150179
+767.4702396150179
+767.1938835622834
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487
+761.1266236016487

@@ -1,0 +1,11 @@
+Population size 
+Random seed
+Maximum number of generation
+Input file name
+Crossover rate 
+Mutation rate
+Tournament selection k
+Crossover type: O for order crossover, U for uniform order crossover 
+Number of individuals selected for elitism
+
+

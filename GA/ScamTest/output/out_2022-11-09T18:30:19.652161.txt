@@ -1,0 +1,385 @@
+Random seed: 3
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 1.0
+Mutation rate: 0.0
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Uniform Order Crossover 
+
+Best fitness value: 780.6467923459898
+Average population fitness value: 793.9245553426163
+
+Best fitness value: 775.7413603748478
+Average population fitness value: 790.8454720996519
+
+Best fitness value: 775.9576993954289
+Average population fitness value: 789.8901026695287
+
+Best fitness value: 771.5153133948241
+Average population fitness value: 789.5528512214584
+
+Best fitness value: 769.5665262135144
+Average population fitness value: 788.6847275408364
+
+Best fitness value: 769.2617949119654
+Average population fitness value: 787.4287158823125
+
+Best fitness value: 766.8676075654157
+Average population fitness value: 787.0144029432314
+
+Best fitness value: 765.6791107010876
+Average population fitness value: 785.5841667620364
+
+Best fitness value: 762.6566142588113
+Average population fitness value: 784.1140030764241
+
+Best fitness value: 766.4667686239219
+Average population fitness value: 782.9218833744969
+
+Best fitness value: 761.67126421468
+Average population fitness value: 780.7754773545284
+
+Best fitness value: 759.1766776187253
+Average population fitness value: 777.961353692945
+
+Best fitness value: 758.1297008838618
+Average population fitness value: 775.8563304800107
+
+Best fitness value: 758.1297008838618
+Average population fitness value: 771.589123177397
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 768.8940302472619
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 765.9220203266616
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 764.2300400161656
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 762.4528298271074
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 762.3984606431457
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 760.8447879959663
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 756.4684933325052
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Average population fitness value: 755.6195890702194
+
+Best fitness value: 755.6195890702194
+Solution chromosome: [9, 6, 0, 4, 14, 7, 5, 1, 11, 2, 10, 3, 8, 12, 13]
+MartThe  seians
+o haem talcve c
+ed tulat deheir
+t wiscenmazth a
+subting —thlety
+matheir icaemat
+arnil les eng i
+ntlyvide in far
+ess  excursof o
+ to —and cahave
+d ourrieeirt th
+para pres wtion
+a weith ighll-n
+fect pernim una
+ Hadity. in our
+mentstrurmis pe
+ it,ttedmig we 
+ave ht h thseen
+there gatroing 
+ farublek i bac
+e nin thentnete
+nturh ceen y. M
+ Schlikereliapa
+atchli whe ed t
+planred t iet—i
+d, bs ode-by-th
+thatye,  co for
+ess untluricent
+ars es Mbeehas 
+e stn thf war o
+ut far—bd taile
+terpo intheret 
+ctua flu apting
+ancepear ths of
+rkine maheygs t
+ped  mapellso w
+l th. Alimeat t
+ Mar thes mtian
+haveust n g bee
+ng retti. Deady
+g thurinpose op
+n ofitiohte eig
+ineten nur y fo
+eat a grt wligh
+een as she on t
+minailluparted 
+ thet ofk,  dis
+t atfirs Li the
+bserck Ory,vato
+n by therot Per
+f Niin oandce, 
+n by theer  oth
+rverobsengls. E
+readish heaers 
+f itrd ost  fir
+he iin t ofssue
+ure  Natd Adate
+t 2.ugusm i I a
+ned nclihinto t
+at tk thblahis 
+ay hze mbeeave 
+e can thg ostin
+e huf thun,ge g
+the  in  pivast
+nk it suthento 
+laneir promt, f
+ch t whi shheir
+wereots ed  fir
+s. Pat uiarecul
+king mars ys, a
+nexpet ued,lain
+e se werearen n
+ sit the the of
+utbrat odureak 
+the ing  twnext
+posio ops. tion
+storThe rstm bu
+n us upo ye six
+ago ars  Asnow.
+s ap Marcheproa
+posid op, Ltion
+le oavelva f Ja
+the set s owire
+e asf thomitron
+exchcal  paange
+atinlpitth g wi
+amazthe inting 
+gencelli a e of
+ outhugek obrea
+candf innt esce
+upongas  pl the
+. Itanet oc had
+ed tcurrds owar
+ightmidnthe of 
+lfth twed t; an
+pecthe soperosc
+ whi, toe hch h
+t onad aesoce r
+, inrtedteddica
+ass  a mlamof f
+gas,ing efl chi
+drogy hymoven, 
+withing eno an 
+s vermouty loci
+rds towa eathis
+ Thirth.t os je
+re hf fiecoad b
+nvisme i abible
+a quout r parte
+twelast He ve. 
+aredcompto  it 
+lossa couffal p
+flam of ddee su
+and nly entviol
+quirly soutted 
+the  of et,plan
+ fla “as gaming
+rushses ut ed o
+ gunof a si.” A
+arlyngulrop app
+e phriat itrase
+ved. pro th Yet
+xt de neheray t
+s noe wag othin
+is if the pn th
+s exaper a cept
+le nlittin ote 
+Dailthe legy Te
+, anraphe wd th
+ wenorld igt in
+nce norane of o
+he gof tst rave
+ers dang evthat
+hreaer td ttene
+umanhe he.  rac
+ght I mihavnot 
+ard e hehe of t
+tionerupall at 
+ I n hadet ot m
+vy, Ogilwelthe 
+own l-knonoastr
+ at mer,rshOtte
+He waw. mmeas i
+y exnseld acite
+e net thandws, 
+the  in ss exce
+is fof hngseeli
+ited invup  me 
+ake to trn a tu
+ himwitht n tha
+ in ightruta sc
+of tiny ed he r
+et. planpitIn s
+ alle oft h tha
+appeas hsinned 
+I stce, remill 
+r thembeigiat v
+ry dl venctisti
+the ly: k ablac
+ilennd ssert ob
+ry, vatoshathe 
+d ladowen tnter
+ing hrowebla fe
+ow ue glthepon 
+or i floe cn th
+r, torneteahe s
+ickidy tf tng o
+lockhe c ofwork
+ tel thepe,esco
+ lit theslitle 
+ thet inf—a roo
+longn obfun pro
+ witditye sh th
+ust tardakestre
+rossd ac Og it.
+ movilvyboued a
+nvist, i buible
+diblt auooke. L
+throing theugh 
+esco telonepe, 
+ a c sawe oircl
+ep bf deandlue 
+ lit theroutle 
+lanend pimmt sw
+in ting ielhe f
+t sed. I suemed
+ litch athitle 
+so bng, t arigh
+mallnd s st and
+ faiill, mantly
+ witrkedansh tr
+e stverss, ripe
+sligand  flhtly
+ned atte thfrom
+rfece peundt ro
+t so. Butle lit
+was, it sil so 
+ warverypinm—a 
+ead ’s highof l
+t wat! I ifs as
+quiv it , bered
+eallut ris y th
+the was scotele
+ibrape v witing
+he ath tityctiv
+the  of kwocloc
+hat rk t thkept
+anete plvie in 
+s I w. Ahedwatc
+e pl, th seanet
+ to emed lagrow
+ andrgerlle sma
+d tor ananc adv
+d ree an, bcede
+hat ut tsimwas 
+thatply eye my 
+ tir was   ed. 
+
+--------average fitness values--------793.9245553426163
+790.8454720996519
+789.8901026695287
+789.5528512214584
+788.6847275408364
+787.4287158823125
+787.0144029432314
+785.5841667620364
+784.1140030764241
+782.9218833744969
+780.7754773545284
+777.961353692945
+775.8563304800107
+771.589123177397
+768.8940302472619
+765.9220203266616
+764.2300400161656
+762.4528298271074
+762.3984606431457
+760.8447879959663
+756.4684933325052
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+--------best fitness values--------780.6467923459898
+775.7413603748478
+775.9576993954289
+771.5153133948241
+769.5665262135144
+769.2617949119654
+766.8676075654157
+765.6791107010876
+762.6566142588113
+766.4667686239219
+761.67126421468
+759.1766776187253
+758.1297008838618
+758.1297008838618
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194
+755.6195890702194

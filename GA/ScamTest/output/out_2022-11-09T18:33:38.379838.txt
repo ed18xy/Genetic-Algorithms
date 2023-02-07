@@ -1,0 +1,385 @@
+Random seed: 1
+Population size: 200
+Maximum generation size: 30
+Crossover rate: 0.95
+Mutation rate: 0.15
+Tournament: k = 5
+Input file: ScamTest/document3-shredded.txt
+Elitism members: n = 2
+Crossover type: Uniform Order Crossover 
+
+Best fitness value: 779.3528981126062
+Average population fitness value: 793.3598970318687
+
+Best fitness value: 776.7667192539193
+Average population fitness value: 791.263513529606
+
+Best fitness value: 775.3037011466209
+Average population fitness value: 790.1850607924338
+
+Best fitness value: 773.6936636309156
+Average population fitness value: 788.9139257543189
+
+Best fitness value: 771.8698043228828
+Average population fitness value: 788.0496331371406
+
+Best fitness value: 769.8972799093458
+Average population fitness value: 786.1836233746774
+
+Best fitness value: 772.137019161229
+Average population fitness value: 785.8891917825058
+
+Best fitness value: 766.8886431357628
+Average population fitness value: 784.974993480258
+
+Best fitness value: 767.6506476889493
+Average population fitness value: 784.4938430926863
+
+Best fitness value: 762.7055041302611
+Average population fitness value: 783.8888861341453
+
+Best fitness value: 762.3719292898242
+Average population fitness value: 783.7069391670524
+
+Best fitness value: 762.3719292898242
+Average population fitness value: 783.5575952404481
+
+Best fitness value: 764.8147280494368
+Average population fitness value: 781.0097714326729
+
+Best fitness value: 757.3302345776073
+Average population fitness value: 779.0673084797162
+
+Best fitness value: 757.3302345776073
+Average population fitness value: 777.9402456142035
+
+Best fitness value: 757.0714894753886
+Average population fitness value: 775.2048237436326
+
+Best fitness value: 757.0714894753886
+Average population fitness value: 772.5083868135251
+
+Best fitness value: 757.0714894753886
+Average population fitness value: 770.1239070914403
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 767.2322584766531
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 763.0860549132235
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 758.6882838110057
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 758.3344410879489
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 756.826060822537
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 754.4804572518417
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 752.9084601927904
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 752.7281047623198
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 753.2222939418366
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 752.8743666447834
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 752.6847177592674
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 753.1619727051117
+
+Best fitness value: 751.3107787826019
+Average population fitness value: 753.4882801080412
+
+Best fitness value: 751.3107787826019
+Solution chromosome: [14, 7, 5, 1, 9, 8, 12, 13, 11, 2, 10, 6, 0, 4, 3]
+The Mans searti
+em toe calc hav
+ulateeir ded th
+scenth amaz wit
+ing sety—thubtl
+eir mmaticaathe
+l leag is ernin
+videnfar intly 
+ excef oursss o
+—and ave cato h
+rried their out
+ prepions warat
+ith al-nigh wel
+ perfunanimect 
+ity. our inHad 
+strum permients
+tted we migit, 
+ht haeen thve s
+e gatng troheri
+uble back ifar 
+n theeteent nin
+h cen. Men tury
+like aparelSchi
+li wad the tche
+red pt—it ilane
+s odd-the-b, by
+ye, tfor cohat 
+untleenturiss c
+es Maas beers h
+n ther of w sta
+ar—builed tt fa
+o intet theerpr
+ flucing aptuat
+peara of thnces
+e mars theyking
+ mappo welled s
+. Allt time tha
+ the ians mMart
+ust hbeen gave 
+ettinady. Dg re
+uring oppos the
+itioneighte of 
+en ni four nety
+a greight wat l
+as sen the en o
+illumed parinat
+t of disk, the 
+firstthe Li at 
+ck Obatory,serv
+ thenPerrot by 
+in ofe, and Nic
+ thenother  by 
+obser. Englvers
+ish rrs heaeade
+rd offirst  it 
+in thsue ofe is
+ Natuated Are d
+ugustI am i 2. 
+nclino thined t
+k thais blat th
+ze mave beey ha
+n theting o cas
+f thee gun, hug
+ in tast pihe v
+t sunto thek in
+ir pl, fromanet
+ whiceir shh th
+ots wfired ere 
+at usculiar. Pe
+ mark, as yings
+et unained,expl
+ weren near see
+ the  of thsite
+at ouak durtbre
+ing text twhe n
+o oppions. osit
+The s bursttorm
+ uponsix ye us 
+ars aow. Asgo n
+ Marsroache app
+d oppion, Losit
+avell Java e of
+set tires ohe w
+f theronomi ast
+cal enge paxcha
+lpita with ting
+the ang intmazi
+ellig of a ence
+huge reak ooutb
+f incscent ande
+gas uthe plpon 
+anet.had oc It 
+currewards d to
+midniof theght 
+ twel and tfth;
+he sposcopeectr
+, to h he hwhic
+ad ate reso onc
+rted,icated ind
+ a maf flamss o
+ing gchieflas, 
+y hydn, movroge
+ing wan enoith 
+rmousocity  vel
+towarhis eads t
+rth.  jet oThis
+f fird becoe ha
+me inble abvisi
+out arter p qua
+ast te. He welv
+compait to red 
+a coll puffossa
+ of f suddelame
+nly aiolentnd v
+ly sqed outuirt
+ of tlanet,he p
+ “as ing gaflam
+ses rd out ushe
+of a ” A sigun.
+ngulaapproprly 
+riatease it phr
+ provYet thed. 
+e nexy thert da
+e washing o not
+f thi the ps in
+apersept a  exc
+littlte in e no
+the D Telegaily
+raph, the w and
+orld  in igwent
+noranf one ce o
+of thavest e gr
+dangehat evrs t
+er thened treat
+he hurace. man 
+I migot havht n
+e heaf the rd o
+eruptat allion 
+ had t met I no
+Ogilvhe wely, t
+l-knostronown a
+mer, ttershat O
+aw. Hs immee wa
+nselyited a exc
+t thes, and new
+ in txcess he e
+of hielingss fe
+ invime up ted 
+to ta turn ke a
+with that nhim 
+ight  scrutin a
+iny oe red f th
+planen spitt. I
+e of that hall 
+as haed sinppen
+ce, Ill rem sti
+embert vigi tha
+l verstincty di
+ly: tlack ahe b
+nd si obserlent
+vatorhe shay, t
+dowedtern t lan
+hrowi feeblng a
+e gloon thew up
+ floo the cr in
+ornere stea, th
+dy tig of tckin
+he clork ofockw
+ the scope,tele
+ the le slilitt
+t in roof—athe 
+n oblprofunong 
+dity  the swith
+tardutreakest s
+d acrit. Ogoss 
+ilvy d aboumove
+t, inble buvisi
+t aud. Lookible
+ing tgh thehrou
+ telee, onescop
+ saw rcle oa ci
+f deeue andp bl
+ the le roulitt
+nd pl swimmanet
+ing ie fieln th
+d. Itmed su see
+ch a le thilitt
+ng, sight ao br
+nd smand stall 
+ill, tly mafain
+rked  transwith
+verseipes,  str
+and stly flligh
+attenrom thed f
+e per roundfect
+. Butlittle so 
+ it wso silas, 
+very —a pinwarm
+’s hef lighad o
+t! It as if was
+ it qred, buive
+ut re this ally
+was telescohe t
+pe viing wibrat
+th thtivitye ac
+ of tlockwohe c
+rk thept that k
+e plain vienet 
+w. Asatched I w
+, thenet se pla
+emed row lato g
+rger smalleand 
+r andadvanc to 
+e andede, b rec
+ut thas simat w
+ply tmy eyehat 
+ was d.    tire
+
+--------average fitness values--------793.3598970318687
+791.263513529606
+790.1850607924338
+788.9139257543189
+788.0496331371406
+786.1836233746774
+785.8891917825058
+784.974993480258
+784.4938430926863
+783.8888861341453
+783.7069391670524
+783.5575952404481
+781.0097714326729
+779.0673084797162
+777.9402456142035
+775.2048237436326
+772.5083868135251
+770.1239070914403
+767.2322584766531
+763.0860549132235
+758.6882838110057
+758.3344410879489
+756.826060822537
+754.4804572518417
+752.9084601927904
+752.7281047623198
+753.2222939418366
+752.8743666447834
+752.6847177592674
+753.1619727051117
+753.4882801080412
+--------best fitness values--------779.3528981126062
+776.7667192539193
+775.3037011466209
+773.6936636309156
+771.8698043228828
+769.8972799093458
+772.137019161229
+766.8886431357628
+767.6506476889493
+762.7055041302611
+762.3719292898242
+762.3719292898242
+764.8147280494368
+757.3302345776073
+757.3302345776073
+757.0714894753886
+757.0714894753886
+757.0714894753886
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
+751.3107787826019
